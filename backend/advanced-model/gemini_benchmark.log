@@ -1,0 +1,1324 @@
+2025-03-24 20:41:29,421 - INFO - Use pytorch device_name: cpu
+2025-03-24 20:41:29,422 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-24 22:36:11,407 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-24 22:36:11,409 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-24 22:36:11,409 - WARNING - Falling back to partitioning with hi_res.
+2025-03-24 22:36:13,103 - INFO - Reading PDF for file: uploads\Oracle - JD - Associate Consultant(Non- IT).pdf ...
+2025-03-24 22:36:13,135 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-24 22:36:24,827 - INFO - HNSW Search Time: 0.0267 seconds
+2025-03-24 22:37:29,911 - INFO - HNSW Search Time: 0.0545 seconds
+2025-03-25 03:36:27,419 - INFO - Use pytorch device_name: cpu
+2025-03-25 03:36:27,420 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-25 03:40:37,575 - INFO - Use pytorch device_name: cpu
+2025-03-25 03:40:37,575 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-25 03:47:24,129 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-25 03:47:24,130 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-25 03:47:24,130 - WARNING - Falling back to partitioning with hi_res.
+2025-03-25 03:47:24,989 - INFO - Reading PDF for file: uploads\PGM exp5 (1).pdf ...
+2025-03-25 03:47:25,001 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-25 03:47:37,028 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-25 03:47:37,028 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-25 03:47:37,028 - WARNING - Falling back to partitioning with hi_res.
+2025-03-25 03:47:37,029 - INFO - Reading PDF for file: uploads\omccexp.pdf ...
+2025-03-25 03:47:37,036 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-25 03:47:45,301 - INFO - HNSW Search Time: 0.0161 seconds
+2025-03-25 04:44:37,647 - INFO - Use pytorch device_name: cpu
+2025-03-25 04:44:37,648 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-25 04:46:44,784 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-25 04:46:44,785 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-25 04:46:44,785 - WARNING - Falling back to partitioning with hi_res.
+2025-03-25 04:46:45,696 - INFO - Reading PDF for file: uploads\DevOps-1.pdf ...
+2025-03-25 04:46:45,705 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-25 04:48:25,769 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-25 04:48:25,770 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-25 04:48:25,770 - WARNING - Falling back to partitioning with hi_res.
+2025-03-25 04:48:25,770 - INFO - Reading PDF for file: uploads\standard-residential-lease-agreement-template.pdf ...
+2025-03-25 04:48:25,777 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-25 04:48:47,968 - INFO - HNSW Search Time: 0.0293 seconds
+2025-03-25 05:27:04,113 - INFO - Use pytorch device_name: cpu
+2025-03-25 05:27:04,113 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-25 05:36:50,968 - INFO - Use pytorch device_name: cpu
+2025-03-25 05:36:50,968 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-25 05:38:59,717 - INFO - Use pytorch device_name: cpu
+2025-03-25 05:38:59,717 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-25 06:09:39,284 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-25 06:09:39,286 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-25 06:09:39,286 - WARNING - Falling back to partitioning with hi_res.
+2025-03-25 06:09:41,106 - INFO - Reading PDF for file: uploads\standard-residential-lease-agreement-template.pdf ...
+2025-03-25 06:09:41,122 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-25 06:10:09,320 - INFO - HNSW Search Time: 0.0820 seconds
+2025-03-26 02:32:31,585 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-26 02:32:31,589 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-26 02:32:31,589 - WARNING - Falling back to partitioning with hi_res.
+2025-03-26 02:32:31,596 - INFO - Reading PDF for file: uploads\Lease Agreement PDF.pdf ...
+2025-03-26 02:32:31,621 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-26 02:36:07,415 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-26 02:36:07,416 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-26 02:36:07,416 - WARNING - Falling back to partitioning with hi_res.
+2025-03-26 02:36:07,417 - INFO - Reading PDF for file: uploads\Lease Agreement PDF.pdf ...
+2025-03-26 02:36:07,426 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-26 02:36:31,807 - INFO - HNSW Search Time: 0.0404 seconds
+2025-03-26 02:37:18,532 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-26 02:37:18,533 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-26 02:37:18,533 - WARNING - Falling back to partitioning with hi_res.
+2025-03-26 02:37:18,533 - INFO - Reading PDF for file: uploads\Lease Agreement PDF.pdf ...
+2025-03-26 02:37:18,544 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-26 02:37:48,819 - INFO - HNSW Search Time: 0.0358 seconds
+2025-03-26 03:14:01,541 - INFO - Use pytorch device_name: cpu
+2025-03-26 03:14:01,542 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-26 03:25:17,274 - INFO - Use pytorch device_name: cpu
+2025-03-26 03:25:17,276 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-26 03:25:20,768 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-26 03:25:20,770 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-26 03:25:20,770 - WARNING - Falling back to partitioning with hi_res.
+2025-03-26 03:25:22,494 - INFO - Reading PDF for file: uploads\Lease Agreement PDF.pdf ...
+2025-03-26 03:25:22,515 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-26 03:25:28,461 - INFO - Query: Will the landlord be liable for any damages to the tenant or his family?
+2025-03-26 03:25:28,498 - INFO - HNSW Search Time: 0.0370 seconds
+2025-03-26 03:25:28,498 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-26 03:25:28,589 - INFO - Chunk 1:
+Similarity Score: 0.6934965252876282
+Text (first 300 characters): If said damage was due to the negligence of the Tenant(s), the Tenant(s) shall be liable to the Landlord for all repairs and for the loss of income due to restoring the property back to a livable condition in addition to any other losses that can be proved by the Landlord.
+
+2025-03-26 03:25:28,665 - INFO - Chunk 2:
+Similarity Score: 0.647607684135437
+Text (first 300 characters): INDEMNIFICATION.\u200b Landlord shall not be liable for any injury to the tenant, tenant’s family, guests, or employees or to any person entering the Property and shall not be liable for any damage to the building in which the Property is located or to goods or equipment, or to the structure or equipment...
+
+2025-03-26 03:25:28,723 - INFO - Chunk 3:
+Similarity Score: 0.6094933748245239
+Text (first 300 characters): DEFAULT.\u200b If Landlord breaches this Lease, Tenant may seek any relief provided by law.
+
+2025-03-26 03:25:28,785 - INFO - Chunk 4:
+Similarity Score: 0.5733436942100525
+Text (first 300 characters): Tenant is responsible and liable for any damage or required cleaning to the Property caused by any authorized or unauthorized animal and for all costs Landlord may incur in removing or causing any animal to be removed.
+
+2025-03-26 03:25:28,901 - INFO - Chunk 5:
+Similarity Score: 0.5452033281326294
+Text (first 300 characters): The tenant will, at its sole expense, keep and maintain the Property and appurtenances in a good and sanitary condition and repair during the term of this Lease and any renewal thereof.
+
+2025-03-26 03:25:28,903 - INFO - BM25 Filtered Candidates Found.
+2025-03-26 03:25:28,904 - INFO - 
+Final Context for LLM Prompt:
+INDEMNIFICATION.\u200b Landlord shall not be liable for any injury to the tenant, tenant’s family, guests, or employees or to any person entering the Property and shall not be liable for any damage to the building in which the Property is located or to goods or equipment, or to the structure or equipment of the structure in which the Property is located, and Tenant hereby agrees to indemnify, defend, and hold Landlord harmless from any and all claims or assertions of every kind and nature.
+
+Tenant is responsible and liable for any damage or required cleaning to the Property caused by any authorized or unauthorized animal and for all costs Landlord may incur in removing or causing any animal to be removed.
+
+2025-03-26 03:28:19,047 - INFO - Use pytorch device_name: cpu
+2025-03-26 03:28:19,048 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-26 03:28:21,929 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-26 03:28:21,931 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-26 03:28:21,931 - WARNING - Falling back to partitioning with hi_res.
+2025-03-26 03:28:23,386 - INFO - Reading PDF for file: uploads\BENEFICIARY MANDATE FORM (2).pdf ...
+2025-03-26 03:28:23,413 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-26 03:28:24,105 - INFO - Query [91315521-ee68-465f-bd21-ed85581d1990]: what is this about
+2025-03-26 03:28:24,207 - INFO - HNSW Search Time: 0.1015 seconds
+2025-03-26 03:28:34,951 - INFO - Query [a34e138a-e58f-4c34-93cd-31f2207f2eb3]: 5ry
+2025-03-26 03:28:35,030 - INFO - HNSW Search Time: 0.0788 seconds
+2025-03-26 03:28:35,031 - INFO - 
+Candidate Chunks and Similarity Scores for request [a34e138a-e58f-4c34-93cd-31f2207f2eb3]:
+2025-03-26 03:28:35,091 - INFO - Chunk 1:
+Similarity Score: 0.34876886010169983
+Text (first 300 characters): (if allotted) 6005 0282 2587 5 PAN No.
+
+2025-03-26 03:28:35,142 - INFO - Chunk 2:
+Similarity Score: 0.24478808045387268
+Text (first 300 characters): Whether the Account is in the Name of Beneficiary (Tick One) Yes I 8 Whether the Account is Operational (Tick One) Yes 19
+
+2025-03-26 03:28:35,203 - INFO - Chunk 3:
+Similarity Score: 0.21192406117916107
+Text (first 300 characters): Savings 14 Account Number 00000041329252860 15 Bank Branch IFSC Code SBIN0011696 16 Bank Branch MICR Code 400002202 17
+
+2025-03-26 03:28:35,255 - INFO - Chunk 4:
+Similarity Score: 0.2081945836544037
+Text (first 300 characters): Signature of the Account Holder with Designation Or Authorised Signatory With Institution Seal Certified that the above details are verified on 9th December 2024 (Banker's Signature with Seal )
+
+2025-03-26 03:28:35,304 - INFO - Chunk 5:
+Similarity Score: 0.20293861627578735
+Text (first 300 characters): Whether the Account is No Frill Account (Tick One) Yes 20 Whether the Account is Joint Account (if yes e:ive details)
+
+2025-03-26 03:28:35,305 - INFO - No BM25 match found for request [a34e138a-e58f-4c34-93cd-31f2207f2eb3]. Using top vector search result.
+2025-03-26 03:28:35,305 - INFO - 
+Final Context for LLM Prompt [a34e138a-e58f-4c34-93cd-31f2207f2eb3]:
+(if allotted) 6005 0282 2587 5 PAN No.
+
+2025-03-26 16:46:18,943 - INFO - Use pytorch device_name: cpu
+2025-03-26 16:46:18,944 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-26 17:03:45,514 - INFO - Use pytorch device_name: cpu
+2025-03-26 17:03:45,515 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-26 17:03:48,278 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-26 17:03:48,280 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-26 17:03:48,280 - WARNING - Falling back to partitioning with hi_res.
+2025-03-26 17:03:49,816 - INFO - Reading PDF for file: uploads\Lease Agreement PDF.pdf ...
+2025-03-26 17:03:49,836 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-26 17:05:15,646 - INFO - Use pytorch device_name: cpu
+2025-03-26 17:05:15,647 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-26 17:05:48,160 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-26 17:05:48,163 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-26 17:05:48,164 - WARNING - Falling back to partitioning with hi_res.
+2025-03-26 17:05:49,651 - INFO - Reading PDF for file: uploads\Lease Agreement PDF.pdf ...
+2025-03-26 17:05:49,675 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-26 17:05:57,633 - INFO - Query: Will the landlord be liable for any damages to the tenant?
+2025-03-26 17:05:57,738 - INFO - HNSW Search Time: 0.1052 seconds
+2025-03-26 17:05:57,738 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-26 17:05:57,806 - INFO - Chunk 1:
+Similarity Score: 0.7482267618179321
+Text (first 300 characters): If said damage was due to the negligence of the Tenant(s), the Tenant(s) shall be liable to the Landlord for all repairs and for the loss of income due to restoring the property back to a livable condition in addition to any other losses that can be proved by the Landlord.
+
+2025-03-26 17:05:57,873 - INFO - Chunk 2:
+Similarity Score: 0.6974591612815857
+Text (first 300 characters): INDEMNIFICATION.\u200b Landlord shall not be liable for any injury to the tenant, tenant’s family, guests, or employees or to any person entering the Property and shall not be liable for any damage to the building in which the Property is located or to goods or equipment, or to the structure or equipment...
+
+2025-03-26 17:05:57,921 - INFO - Chunk 3:
+Similarity Score: 0.6601634621620178
+Text (first 300 characters): DEFAULT.\u200b If Landlord breaches this Lease, Tenant may seek any relief provided by law.
+
+2025-03-26 17:05:57,973 - INFO - Chunk 4:
+Similarity Score: 0.6476494669914246
+Text (first 300 characters): Tenant is responsible and liable for any damage or required cleaning to the Property caused by any authorized or unauthorized animal and for all costs Landlord may incur in removing or causing any animal to be removed.
+
+2025-03-26 17:05:58,023 - INFO - Chunk 5:
+Similarity Score: 0.605168342590332
+Text (first 300 characters): In the event the SubTenant(s) violates any portion of this Lease, all liability shall be held against the Tenant.
+
+2025-03-26 17:05:58,024 - INFO - BM25 Filtered Candidates Found.
+2025-03-26 17:05:58,024 - INFO - 
+Final Context for LLM Prompt:
+If said damage was due to the negligence of the Tenant(s), the Tenant(s) shall be liable to the Landlord for all repairs and for the loss of income due to restoring the property back to a livable condition in addition to any other losses that can be proved by the Landlord.
+
+INDEMNIFICATION.\u200b Landlord shall not be liable for any injury to the tenant, tenant’s family, guests, or employees or to any person entering the Property and shall not be liable for any damage to the building in which the Property is located or to goods or equipment, or to the structure or equipment of the structure in which the Property is located, and Tenant hereby agrees to indemnify, defend, and hold Landlord harmless from any and all claims or assertions of every kind and nature.
+
+2025-03-26 17:09:05,692 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-26 17:09:05,697 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-26 17:09:05,697 - WARNING - Falling back to partitioning with hi_res.
+2025-03-26 17:09:05,697 - INFO - Reading PDF for file: uploads\Lease Agreement PDF.pdf ...
+2025-03-26 17:09:05,719 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-26 17:09:16,809 - INFO - Query: What happens if the tenant does not pay rent on time
+2025-03-26 17:09:16,874 - INFO - HNSW Search Time: 0.0643 seconds
+2025-03-26 17:09:16,875 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-26 17:09:16,945 - INFO - Chunk 1:
+Similarity Score: 0.7068367600440979
+Text (first 300 characters): If Tenant fails to pay rent when due and the default continues for ____ days thereafter, Landlord may, at Landlord's option, declare the entire balance of rent payable hereunder to be immediately due and payable and may exercise any and all rights and remedies available to Landlord at law or in equi...
+
+2025-03-26 17:09:17,019 - INFO - Chunk 2:
+Similarity Score: 0.6685186624526978
+Text (first 300 characters): Weekends and holidays do not delay or excuse Tenant’s obligation to pay Rent on time.
+
+2025-03-26 17:09:17,098 - INFO - Chunk 3:
+Similarity Score: 0.6679194569587708
+Text (first 300 characters): If at any time during the Term of this Lease Tenant abandons the Property or any part thereof, Landlord may, at Landlord's option, obtain possession of the Property in the manner provided by law, and without becoming liable to Tenant for damages or for any payment of any kind whatsoever.
+
+2025-03-26 17:09:17,186 - INFO - Chunk 4:
+Similarity Score: 0.6363273859024048
+Text (first 300 characters): The landlord may, at Landlord's discretion, as agent for Tenant, relet the Property, or any part thereof, for the whole or any part of the then unexpired term, and may receive and collect all rent payable by virtue of such reletting, and, at Landlord's option, hold Tenant liable for any difference b...
+
+2025-03-26 17:09:17,317 - INFO - Chunk 5:
+Similarity Score: 0.6205849051475525
+Text (first 300 characters): If Tenant fails to comply with any of the material provisions of this Lease, other than the covenant to pay rent or of any present rules and regulations, or any that may be hereafter prescribed by Landlord, or materially fails to comply with any duties imposed on Tenant by statute, Landlord may term...
+
+2025-03-26 17:09:17,319 - INFO - BM25 Filtered Candidates Found.
+2025-03-26 17:09:17,320 - INFO - 
+Final Context for LLM Prompt:
+Weekends and holidays do not delay or excuse Tenant’s obligation to pay Rent on time.
+
+If at any time during the Term of this Lease Tenant abandons the Property or any part thereof, Landlord may, at Landlord's option, obtain possession of the Property in the manner provided by law, and without becoming liable to Tenant for damages or for any payment of any kind whatsoever.
+
+2025-03-26 17:14:34,611 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-26 17:14:34,614 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-26 17:14:34,614 - WARNING - Falling back to partitioning with hi_res.
+2025-03-26 17:14:34,615 - INFO - Reading PDF for file: uploads\Lease Agreement PDF.pdf ...
+2025-03-26 17:14:34,635 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-26 17:15:01,175 - INFO - Query: What happens if the tenant abandons the property
+2025-03-26 17:15:01,227 - INFO - HNSW Search Time: 0.0518 seconds
+2025-03-26 17:15:01,227 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-26 17:15:01,287 - INFO - Chunk 1:
+Similarity Score: 0.7926038503646851
+Text (first 300 characters): If at any time during the Term of this Lease Tenant abandons the Property or any part thereof, Landlord may, at Landlord's option, obtain possession of the Property in the manner provided by law, and without becoming liable to Tenant for damages or for any payment of any kind whatsoever.
+
+2025-03-26 17:15:01,345 - INFO - Chunk 2:
+Similarity Score: 0.7223815321922302
+Text (first 300 characters): If the Landlord's right of reentry is exercised following the abandonment of the Property by Tenant, then Landlord shall consider any personal property belonging to Tenant and left on the Property to also have been abandoned, in which case Landlord may dispose of all such personal property in any ma...
+
+2025-03-26 17:15:01,396 - INFO - Chunk 3:
+Similarity Score: 0.6671167016029358
+Text (first 300 characters): If the Property is deemed uninhabitable due to damage beyond reasonable repair the Tenant(s) will be able to terminate this Lease by written notice to the Landlord.
+
+2025-03-26 17:15:01,443 - INFO - Chunk 4:
+Similarity Score: 0.6316121816635132
+Text (first 300 characters): The tenant will, at its sole expense, keep and maintain the Property and appurtenances in a good and sanitary condition and repair during the term of this Lease and any renewal thereof.
+
+2025-03-26 17:15:01,496 - INFO - Chunk 5:
+Similarity Score: 0.6100653409957886
+Text (first 300 characters): Upon the end of the Term, Tenant shall be required to vacate the Property unless one of the following circumstances occur: A. Landlord and Tenant formally extend this Lease in writing or create and execute a new, written and signed Lease; Or B. Landlord willingly accepts new Rent from Tenant, which ...
+
+2025-03-26 17:15:01,498 - INFO - BM25 Filtered Candidates Found.
+2025-03-26 17:15:01,498 - INFO - 
+Final Context for LLM Prompt:
+If at any time during the Term of this Lease Tenant abandons the Property or any part thereof, Landlord may, at Landlord's option, obtain possession of the Property in the manner provided by law, and without becoming liable to Tenant for damages or for any payment of any kind whatsoever.
+
+If the Landlord's right of reentry is exercised following the abandonment of the Property by Tenant, then Landlord shall consider any personal property belonging to Tenant and left on the Property to also have been abandoned, in which case Landlord may dispose of all such personal property in any manner Landlord shall deem proper and Landlord is hereby relieved of all liability for doing so.
+
+2025-03-26 17:34:17,753 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-26 17:34:17,754 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-26 17:34:17,755 - WARNING - Falling back to partitioning with hi_res.
+2025-03-26 17:34:17,755 - INFO - Reading PDF for file: uploads\Lease Agreement PDF.pdf ...
+2025-03-26 17:34:17,764 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-26 17:34:42,890 - INFO - Query: Will the tenant be responsible for any damages to the property?
+2025-03-26 17:34:42,934 - INFO - HNSW Search Time: 0.0441 seconds
+2025-03-26 17:34:42,934 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-26 17:34:42,966 - INFO - Chunk 1:
+Similarity Score: 0.7453185319900513
+Text (first 300 characters): If said damage was due to the negligence of the Tenant(s), the Tenant(s) shall be liable to the Landlord for all repairs and for the loss of income due to restoring the property back to a livable condition in addition to any other losses that can be proved by the Landlord.
+
+2025-03-26 17:34:42,997 - INFO - Chunk 2:
+Similarity Score: 0.6715667247772217
+Text (first 300 characters): Tenant is responsible and liable for any damage or required cleaning to the Property caused by any authorized or unauthorized animal and for all costs Landlord may incur in removing or causing any animal to be removed.
+
+2025-03-26 17:34:43,035 - INFO - Chunk 3:
+Similarity Score: 0.6663506031036377
+Text (first 300 characters): INDEMNIFICATION.\u200b Landlord shall not be liable for any injury to the tenant, tenant’s family, guests, or employees or to any person entering the Property and shall not be liable for any damage to the building in which the Property is located or to goods or equipment, or to the structure or equipment...
+
+2025-03-26 17:34:43,067 - INFO - Chunk 4:
+Similarity Score: 0.6347326040267944
+Text (first 300 characters): The tenant will, at its sole expense, keep and maintain the Property and appurtenances in a good and sanitary condition and repair during the term of this Lease and any renewal thereof.
+
+2025-03-26 17:34:43,099 - INFO - Chunk 5:
+Similarity Score: 0.6275618672370911
+Text (first 300 characters): If at any time during the Term of this Lease Tenant abandons the Property or any part thereof, Landlord may, at Landlord's option, obtain possession of the Property in the manner provided by law, and without becoming liable to Tenant for damages or for any payment of any kind whatsoever.
+
+2025-03-26 17:34:43,100 - INFO - BM25 Filtered Candidates Found.
+2025-03-26 17:34:43,100 - INFO - 
+Final Context for LLM Prompt:
+Tenant is responsible and liable for any damage or required cleaning to the Property caused by any authorized or unauthorized animal and for all costs Landlord may incur in removing or causing any animal to be removed.
+
+If at any time during the Term of this Lease Tenant abandons the Property or any part thereof, Landlord may, at Landlord's option, obtain possession of the Property in the manner provided by law, and without becoming liable to Tenant for damages or for any payment of any kind whatsoever.
+
+2025-03-26 17:51:01,918 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-26 17:51:01,921 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-26 17:51:01,921 - WARNING - Falling back to partitioning with hi_res.
+2025-03-26 17:51:01,921 - INFO - Reading PDF for file: uploads\Lease Agreement PDF.pdf ...
+2025-03-26 17:51:01,942 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-26 17:51:20,647 - INFO - Query: What happens if the landlord breaches the lease?
+2025-03-26 17:51:20,715 - INFO - HNSW Search Time: 0.0683 seconds
+2025-03-26 17:51:20,715 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-26 17:51:20,769 - INFO - Chunk 1:
+Similarity Score: 0.7270980477333069
+Text (first 300 characters): DEFAULT.\u200b If Landlord breaches this Lease, Tenant may seek any relief provided by law.
+
+2025-03-26 17:51:20,841 - INFO - Chunk 2:
+Similarity Score: 0.6435911655426025
+Text (first 300 characters): If Tenant fails to comply with any of the material provisions of this Lease, other than the covenant to pay rent or of any present rules and regulations, or any that may be hereafter prescribed by Landlord, or materially fails to comply with any duties imposed on Tenant by statute, Landlord may term...
+
+2025-03-26 17:51:20,893 - INFO - Chunk 3:
+Similarity Score: 0.6431488394737244
+Text (first 300 characters): In the event the SubTenant(s) violates any portion of this Lease, all liability shall be held against the Tenant.
+
+2025-03-26 17:51:20,955 - INFO - Chunk 4:
+Similarity Score: 0.6224586367607117
+Text (first 300 characters): If at any time during the Term of this Lease Tenant abandons the Property or any part thereof, Landlord may, at Landlord's option, obtain possession of the Property in the manner provided by law, and without becoming liable to Tenant for damages or for any payment of any kind whatsoever.
+
+2025-03-26 17:51:21,010 - INFO - Chunk 5:
+Similarity Score: 0.5986501574516296
+Text (first 300 characters): The tenant will, at its sole expense, keep and maintain the Property and appurtenances in a good and sanitary condition and repair during the term of this Lease and any renewal thereof.
+
+2025-03-26 17:51:21,011 - INFO - BM25 Filtered Candidates Found.
+2025-03-26 17:51:21,012 - INFO - 
+Final Context for LLM Prompt:
+DEFAULT.\u200b If Landlord breaches this Lease, Tenant may seek any relief provided by law.
+
+If Tenant fails to comply with any of the material provisions of this Lease, other than the covenant to pay rent or of any present rules and regulations, or any that may be hereafter prescribed by Landlord, or materially fails to comply with any duties imposed on Tenant by statute, Landlord may terminate this Lease ____ days after delivery of written notice by Landlord specifying the noncompliance and indicating the intention of Landlord to terminate the Lease by reason thereof.
+
+2025-03-26 17:56:03,352 - INFO - Query: Is the tenant allowed to make any alterations to the property?
+2025-03-26 17:56:03,397 - INFO - HNSW Search Time: 0.0453 seconds
+2025-03-26 17:56:03,398 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-26 17:56:03,456 - INFO - Chunk 1:
+Similarity Score: 0.8318448066711426
+Text (first 300 characters): ALTERATIONS AND IMPROVEMENTS.\u200b Tenant shall make no alterations to the building or improvements on the Property or construct any building or make any other improvements on the Property without the prior written consent of Landlord.
+
+2025-03-26 17:56:03,508 - INFO - Chunk 2:
+Similarity Score: 0.6939774751663208
+Text (first 300 characters): Any and all alterations, changes, and/or improvements built, constructed, or placed on the Property by Tenant shall, unless otherwise provided by written agreement between Landlord and Tenant, be and become the property of Landlord and remain on the property at the expiration or earlier termination ...
+
+2025-03-26 17:56:03,561 - INFO - Chunk 3:
+Similarity Score: 0.6890366077423096
+Text (first 300 characters): EQUAL HOUSING\u200b. If the Tenant(s) possesses any mental or physical impairment, the Landlord shall provide reasonable modifications to the Property unless the modifications would be too difficult or expensive for the Landlord to provide.
+
+2025-03-26 17:56:03,614 - INFO - Chunk 4:
+Similarity Score: 0.646033763885498
+Text (first 300 characters): Any impairment(s) of the Tenant(s) are encouraged to be provided and presented to the Landlord in writing in order to seek the most appropriate route for providing the modifications to the Property. PROPERTY DEEMED UNINHABITABLE.\u200b
+
+2025-03-26 17:56:03,669 - INFO - Chunk 5:
+Similarity Score: 0.6242111921310425
+Text (first 300 characters): RETALIATION.\u200b The Landlord is prohibited from making any type of retaliatory acts against the Tenant(s) including but not limited to restricting access to the Property, decreasing or canceling services or utilities, failure to repair appliances or fixtures, or any other type of activity that could b...
+
+2025-03-26 17:56:03,670 - INFO - BM25 Filtered Candidates Found.
+2025-03-26 17:56:03,671 - INFO - 
+Final Context for LLM Prompt:
+ALTERATIONS AND IMPROVEMENTS.\u200b Tenant shall make no alterations to the building or improvements on the Property or construct any building or make any other improvements on the Property without the prior written consent of Landlord.
+
+RETALIATION.\u200b The Landlord is prohibited from making any type of retaliatory acts against the Tenant(s) including but not limited to restricting access to the Property, decreasing or canceling services or utilities, failure to repair appliances or fixtures, or any other type of activity that could be considered unjustified.
+
+2025-03-26 18:10:05,292 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-26 18:10:05,293 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-26 18:10:05,293 - WARNING - Falling back to partitioning with hi_res.
+2025-03-26 18:10:05,293 - INFO - Reading PDF for file: uploads\Lease Agreement PDF.pdf ...
+2025-03-26 18:10:05,299 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-26 18:10:35,673 - INFO - Query: Can the landlord increase the rent?
+2025-03-26 18:10:35,702 - INFO - HNSW Search Time: 0.0286 seconds
+2025-03-26 18:10:35,702 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-26 18:10:35,731 - INFO - Chunk 1:
+Similarity Score: 0.6980355978012085
+Text (first 300 characters): If this Lease is renewed automatically on a month-to-month basis, Landlord may increase the rent during the renewal period by providing written notice to Tenant that becomes effective the month following the ____ day after the notice is provided.
+
+2025-03-26 18:10:35,761 - INFO - Chunk 2:
+Similarity Score: 0.6145598888397217
+Text (first 300 characters): D. Rent Increases.\u200b There will be no rent increases through the Term of the Lease.
+
+2025-03-26 18:10:35,790 - INFO - Chunk 3:
+Similarity Score: 0.5964125394821167
+Text (first 300 characters): EQUAL HOUSING\u200b. If the Tenant(s) possesses any mental or physical impairment, the Landlord shall provide reasonable modifications to the Property unless the modifications would be too difficult or expensive for the Landlord to provide.
+
+2025-03-26 18:10:35,817 - INFO - Chunk 4:
+Similarity Score: 0.5769253969192505
+Text (first 300 characters): DEFAULT.\u200b If Landlord breaches this Lease, Tenant may seek any relief provided by law.
+
+2025-03-26 18:10:35,844 - INFO - Chunk 5:
+Similarity Score: 0.5660870671272278
+Text (first 300 characters): ALTERATIONS AND IMPROVEMENTS.\u200b Tenant shall make no alterations to the building or improvements on the Property or construct any building or make any other improvements on the Property without the prior written consent of Landlord.
+
+2025-03-26 18:10:35,845 - INFO - BM25 Filtered Candidates Found.
+2025-03-26 18:10:35,845 - INFO - 
+Final Context for LLM Prompt:
+If this Lease is renewed automatically on a month-to-month basis, Landlord may increase the rent during the renewal period by providing written notice to Tenant that becomes effective the month following the ____ day after the notice is provided.
+
+EQUAL HOUSING\u200b. If the Tenant(s) possesses any mental or physical impairment, the Landlord shall provide reasonable modifications to the Property unless the modifications would be too difficult or expensive for the Landlord to provide.
+
+2025-03-26 18:13:47,365 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-26 18:13:47,367 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-26 18:13:47,367 - WARNING - Falling back to partitioning with hi_res.
+2025-03-26 18:13:47,367 - INFO - Reading PDF for file: uploads\Lease Agreement PDF.pdf ...
+2025-03-26 18:13:47,377 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-26 18:14:32,787 - INFO - Query: What happens if the landlord is unable to deliver the possession of the property?
+2025-03-26 18:14:32,830 - INFO - HNSW Search Time: 0.0429 seconds
+2025-03-26 18:14:32,830 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-26 18:14:32,871 - INFO - Chunk 1:
+Similarity Score: 0.7526950836181641
+Text (first 300 characters): \u200bIn the event, the Landlord cannot deliver possession of the Property to Tenant upon the commencement of the Lease term, through no fault of Landlord, then Landlord shall have no liability, but the rental herein provided shall abate until possession is given.
+
+2025-03-26 18:14:32,912 - INFO - Chunk 2:
+Similarity Score: 0.7171444296836853
+Text (first 300 characters): If at any time during the Term of this Lease Tenant abandons the Property or any part thereof, Landlord may, at Landlord's option, obtain possession of the Property in the manner provided by law, and without becoming liable to Tenant for damages or for any payment of any kind whatsoever.
+
+2025-03-26 18:14:32,947 - INFO - Chunk 3:
+Similarity Score: 0.7029820680618286
+Text (first 300 characters): In the event, possession cannot be delivered within such time, through no fault of Landlord, then this Lease and all rights hereunder shall terminate.
+
+2025-03-26 18:14:32,992 - INFO - Chunk 4:
+Similarity Score: 0.648736298084259
+Text (first 300 characters): NON-DELIVERY OF POSSESSION.
+
+2025-03-26 18:14:33,037 - INFO - Chunk 5:
+Similarity Score: 0.62943035364151
+Text (first 300 characters): Landlord shall have ____ days in which to give possession and, if possession is tendered within such time, Tenant agrees to accept the demised Property and pay the rental herein provided from that date.
+
+2025-03-26 18:14:33,037 - INFO - BM25 Filtered Candidates Found.
+2025-03-26 18:14:33,037 - INFO - 
+Final Context for LLM Prompt:
+\u200bIn the event, the Landlord cannot deliver possession of the Property to Tenant upon the commencement of the Lease term, through no fault of Landlord, then Landlord shall have no liability, but the rental herein provided shall abate until possession is given.
+
+Landlord shall have ____ days in which to give possession and, if possession is tendered within such time, Tenant agrees to accept the demised Property and pay the rental herein provided from that date.
+
+2025-03-26 18:16:28,527 - INFO - Use pytorch device_name: cpu
+2025-03-26 18:16:28,528 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-26 18:19:41,832 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-26 18:19:41,833 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-26 18:19:41,833 - WARNING - Falling back to partitioning with hi_res.
+2025-03-26 18:19:42,902 - INFO - Reading PDF for file: uploads\Lease Agreement PDF.pdf ...
+2025-03-26 18:19:42,916 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-26 18:20:02,017 - INFO - Query: Who will pay the fees for the lawyer?
+2025-03-26 18:20:02,056 - INFO - HNSW Search Time: 0.0391 seconds
+2025-03-26 18:20:02,056 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-26 18:20:02,103 - INFO - Chunk 1:
+Similarity Score: 0.5402836799621582
+Text (first 300 characters): ATTORNEYS' FEES.\u200b Should it become necessary for Landlord to employ an attorney to enforce any of the conditions or covenants hereof, including the collection of rentals or gaining possession of the Property, Tenant agrees to pay all expenses so incurred, including reasonable attorneys' fee.
+
+2025-03-26 18:20:02,166 - INFO - Chunk 2:
+Similarity Score: 0.3077199459075928
+Text (first 300 characters): PARKING.\u200b The Landlord: \u2610 Shall provide ____ parking space(s) to the Tenant(s) for a fee of $____ to be paid \u2610 at the execution of this Lease \u2610 on a monthly basis in addition to the rent.
+
+2025-03-26 18:20:02,233 - INFO - Chunk 3:
+Similarity Score: 0.30078214406967163
+Text (first 300 characters): The landlord may deduct reasonable charges from the Security Deposit for unpaid rent; late charges; costs of reletting, if Tenant is in default; unpaid utilities; replacing unreturned keys, garage door openers, or other devices; costs of cleaning and repairing the Property and its contents for which...
+
+2025-03-26 18:20:02,273 - INFO - Chunk 4:
+Similarity Score: 0.2847268879413605
+Text (first 300 characters): The Landlord shall administer a fee of $____________ per pet on the Property. Landlord shall be held harmless in the event any of the Tenant’s pets cause harm, injury, death, or sickness to another individual or animal.
+
+2025-03-26 18:20:02,328 - INFO - Chunk 5:
+Similarity Score: 0.2808413505554199
+Text (first 300 characters): The landlord will apply all funds received from Tenant first to any non-rent obligations of Tenant, including late charges, returned check charges, charge-backs for repairs, brokerage fees, and periodic utilities, then to Rent, regardless of any notations on a check.
+
+2025-03-26 18:20:02,329 - INFO - BM25 Filtered Candidates Found.
+2025-03-26 18:20:02,329 - INFO - 
+Final Context for LLM Prompt:
+ATTORNEYS' FEES.\u200b Should it become necessary for Landlord to employ an attorney to enforce any of the conditions or covenants hereof, including the collection of rentals or gaining possession of the Property, Tenant agrees to pay all expenses so incurred, including reasonable attorneys' fee.
+
+The landlord will apply all funds received from Tenant first to any non-rent obligations of Tenant, including late charges, returned check charges, charge-backs for repairs, brokerage fees, and periodic utilities, then to Rent, regardless of any notations on a check.
+
+2025-03-26 18:24:47,491 - INFO - Query: What happens if the lease becomes invalid?
+2025-03-26 18:24:47,506 - INFO - HNSW Search Time: 0.0152 seconds
+2025-03-26 18:24:47,506 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-26 18:24:47,531 - INFO - Chunk 1:
+Similarity Score: 0.6416807770729065
+Text (first 300 characters): DEFAULT.\u200b If Landlord breaches this Lease, Tenant may seek any relief provided by law.
+
+2025-03-26 18:24:47,565 - INFO - Chunk 2:
+Similarity Score: 0.629099428653717
+Text (first 300 characters): If at any time during the Term of this Lease Tenant abandons the Property or any part thereof, Landlord may, at Landlord's option, obtain possession of the Property in the manner provided by law, and without becoming liable to Tenant for damages or for any payment of any kind whatsoever.
+
+2025-03-26 18:24:47,594 - INFO - Chunk 3:
+Similarity Score: 0.6280571222305298
+Text (first 300 characters): The tenant will, at its sole expense, keep and maintain the Property and appurtenances in a good and sanitary condition and repair during the term of this Lease and any renewal thereof.
+
+2025-03-26 18:24:47,622 - INFO - Chunk 4:
+Similarity Score: 0.6222482323646545
+Text (first 300 characters): If the Property is deemed uninhabitable due to damage beyond reasonable repair the Tenant(s) will be able to terminate this Lease by written notice to the Landlord.
+
+2025-03-26 18:24:47,659 - INFO - Chunk 5:
+Similarity Score: 0.6101793050765991
+Text (first 300 characters): If Tenant fails to comply with any of the material provisions of this Lease, other than the covenant to pay rent or of any present rules and regulations, or any that may be hereafter prescribed by Landlord, or materially fails to comply with any duties imposed on Tenant by statute, Landlord may term...
+
+2025-03-26 18:24:47,660 - INFO - BM25 Filtered Candidates Found.
+2025-03-26 18:24:47,660 - INFO - 
+Final Context for LLM Prompt:
+If the Property is deemed uninhabitable due to damage beyond reasonable repair the Tenant(s) will be able to terminate this Lease by written notice to the Landlord.
+
+If at any time during the Term of this Lease Tenant abandons the Property or any part thereof, Landlord may, at Landlord's option, obtain possession of the Property in the manner provided by law, and without becoming liable to Tenant for damages or for any payment of any kind whatsoever.
+
+2025-03-26 18:27:21,074 - INFO - Use pytorch device_name: cpu
+2025-03-26 18:27:21,074 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-26 18:29:29,769 - INFO - Use pytorch device_name: cpu
+2025-03-26 18:29:29,770 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-26 18:33:21,377 - INFO - Use pytorch device_name: cpu
+2025-03-26 18:33:21,377 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-26 18:34:58,113 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-26 18:34:58,114 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-26 18:34:58,114 - WARNING - Falling back to partitioning with hi_res.
+2025-03-26 18:34:59,130 - INFO - Reading PDF for file: uploads\Lease Agreement PDF.pdf ...
+2025-03-26 18:34:59,142 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-26 18:35:13,154 - INFO - Query: What happens in case of a dispute between the landlord and the tenant?
+2025-03-26 18:35:13,210 - INFO - HNSW Search Time: 0.0560 seconds
+2025-03-26 18:35:13,210 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-26 18:35:13,268 - INFO - Chunk 1:
+Similarity Score: 0.6547448039054871
+Text (first 300 characters): If a dispute arises during or after the term of this Lease between the Landlord and Tenant(s), they shall agree to hold negotiations amongst themselves, in "good faith", before any litigation.
+
+2025-03-26 18:35:13,320 - INFO - Chunk 2:
+Similarity Score: 0.58165442943573
+Text (first 300 characters): The landlord may, at Landlord's discretion, as agent for Tenant, relet the Property, or any part thereof, for the whole or any part of the then unexpired term, and may receive and collect all rent payable by virtue of such reletting, and, at Landlord's option, hold Tenant liable for any difference b...
+
+2025-03-26 18:35:13,352 - INFO - Chunk 3:
+Similarity Score: 0.5794015526771545
+Text (first 300 characters): DEFAULT.\u200b If Landlord breaches this Lease, Tenant may seek any relief provided by law.
+
+2025-03-26 18:35:13,393 - INFO - Chunk 4:
+Similarity Score: 0.5718957781791687
+Text (first 300 characters): RETALIATION.\u200b The Landlord is prohibited from making any type of retaliatory acts against the Tenant(s) including but not limited to restricting access to the Property, decreasing or canceling services or utilities, failure to repair appliances or fixtures, or any other type of activity that could b...
+
+2025-03-26 18:35:13,432 - INFO - Chunk 5:
+Similarity Score: 0.5689973831176758
+Text (first 300 characters): The tenant will, at its sole expense, keep and maintain the Property and appurtenances in a good and sanitary condition and repair during the term of this Lease and any renewal thereof.
+
+2025-03-26 18:35:13,433 - INFO - BM25 Filtered Candidates Found.
+2025-03-26 18:35:13,433 - INFO - 
+Final Context for LLM Prompt:
+If a dispute arises during or after the term of this Lease between the Landlord and Tenant(s), they shall agree to hold negotiations amongst themselves, in "good faith", before any litigation.
+
+The tenant will, at its sole expense, keep and maintain the Property and appurtenances in a good and sanitary condition and repair during the term of this Lease and any renewal thereof.
+
+2025-03-26 18:36:00,526 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-26 18:36:00,528 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-26 18:36:00,528 - WARNING - Falling back to partitioning with hi_res.
+2025-03-26 18:36:00,528 - INFO - Reading PDF for file: uploads\Lease Agreement PDF.pdf ...
+2025-03-26 18:36:00,537 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-26 18:36:19,746 - INFO - Query: What is the property becomes unlivable?
+2025-03-26 18:36:19,777 - INFO - HNSW Search Time: 0.0306 seconds
+2025-03-26 18:36:19,777 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-26 18:36:19,808 - INFO - Chunk 1:
+Similarity Score: 0.4002922475337982
+Text (first 300 characters): Any impairment(s) of the Tenant(s) are encouraged to be provided and presented to the Landlord in writing in order to seek the most appropriate route for providing the modifications to the Property. PROPERTY DEEMED UNINHABITABLE.\u200b
+
+2025-03-26 18:36:19,838 - INFO - Chunk 2:
+Similarity Score: 0.3845500349998474
+Text (first 300 characters): ALTERATIONS AND IMPROVEMENTS.\u200b Tenant shall make no alterations to the building or improvements on the Property or construct any building or make any other improvements on the Property without the prior written consent of Landlord.
+
+2025-03-26 18:36:19,865 - INFO - Chunk 3:
+Similarity Score: 0.38208407163619995
+Text (first 300 characters): NON-DELIVERY OF POSSESSION.
+
+2025-03-26 18:36:19,895 - INFO - Chunk 4:
+Similarity Score: 0.3748752176761627
+Text (first 300 characters): If the Property is deemed uninhabitable due to damage beyond reasonable repair the Tenant(s) will be able to terminate this Lease by written notice to the Landlord.
+
+2025-03-26 18:36:19,928 - INFO - Chunk 5:
+Similarity Score: 0.3728204071521759
+Text (first 300 characters): HAZARDOUS MATERIALS.\u200b Tenant shall not keep on the Property any item of a dangerous, flammable or explosive nature that might unreasonably increase the danger of fire or explosion on the Property or that might be considered hazardous or extra hazardous by any responsible insurance company.
+
+2025-03-26 18:36:19,929 - INFO - BM25 Filtered Candidates Found.
+2025-03-26 18:36:19,929 - INFO - 
+Final Context for LLM Prompt:
+If the Property is deemed uninhabitable due to damage beyond reasonable repair the Tenant(s) will be able to terminate this Lease by written notice to the Landlord.
+
+ALTERATIONS AND IMPROVEMENTS.\u200b Tenant shall make no alterations to the building or improvements on the Property or construct any building or make any other improvements on the Property without the prior written consent of Landlord.
+
+2025-03-26 18:39:54,499 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-26 18:39:54,501 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-26 18:39:54,501 - WARNING - Falling back to partitioning with hi_res.
+2025-03-26 18:39:54,501 - INFO - Reading PDF for file: uploads\Merger PDF.pdf ...
+2025-03-26 18:39:54,510 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-26 18:40:18,477 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-26 18:40:18,478 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-26 18:40:18,478 - WARNING - Falling back to partitioning with hi_res.
+2025-03-26 18:40:18,479 - INFO - Reading PDF for file: uploads\Merger PDF.pdf ...
+2025-03-26 18:40:18,487 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-26 18:42:55,474 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-26 18:42:55,475 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-26 18:42:55,475 - WARNING - Falling back to partitioning with hi_res.
+2025-03-26 18:42:55,475 - INFO - Reading PDF for file: uploads\Simple Merger and Acquisition.pdf ...
+2025-03-26 18:42:55,484 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-26 18:43:10,484 - INFO - Query: What is said about the Chinese walls policy?
+2025-03-26 18:43:10,505 - INFO - HNSW Search Time: 0.0210 seconds
+2025-03-26 18:43:10,505 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-26 18:43:10,547 - INFO - Chunk 1:
+Similarity Score: 0.7466332912445068
+Text (first 300 characters): Chinese Walls To prevent the misuse of confidential information the organization/firm shall adopt a ‘Chinese Wall’ policy which separates those areas of the organization/firm which routinely have access to confidential information, from those areas which deal with sale/marketing/ investment advice o...
+
+2025-03-26 18:43:10,580 - INFO - Chunk 2:
+Similarity Score: 0.382824182510376
+Text (first 300 characters): Provided upon request only © Nishith Desai Associates 2020 24 has prescribed mandatory government approval route for all investments made by any entity of a country that shares land border with India, i.e. Bangladesh, China, Pakistan, Nepal, Myanmar, Bhutan and Afghanistan.
+
+2025-03-26 18:43:10,617 - INFO - Chunk 3:
+Similarity Score: 0.38281404972076416
+Text (first 300 characters): Specifically for non-individual insiders  \x83 Individuals who executed the trade were different from individuals in possession of UPSI and were not in possession of such UPSI; or  \x83 Chinese wall arrangements were in place and there was no leakage of information and the PIT Regulations were not viola...
+
+2025-03-26 18:43:10,647 - INFO - Chunk 4:
+Similarity Score: 0.3779260516166687
+Text (first 300 characters): In order to monitor Chinese Wall procedures and trading in client securities based on UPSI, the organization/firm shall restrict trading in certain securities and designate such list as restricted/grey list.
+
+2025-03-26 18:43:10,677 - INFO - Chunk 5:
+Similarity Score: 0.3120410740375519
+Text (first 300 characters): The government’s reform agenda and the policies were largely formulated to encourage foreign investments.
+
+2025-03-26 18:43:10,678 - INFO - BM25 Filtered Candidates Found.
+2025-03-26 18:43:10,678 - INFO - 
+Final Context for LLM Prompt:
+Chinese Walls To prevent the misuse of confidential information the organization/firm shall adopt a ‘Chinese Wall’ policy which separates those areas of the organization/firm which routinely have access to confidential information, from those areas which deal with sale/marketing/ investment advice or other departments providing support services.
+
+In order to monitor Chinese Wall procedures and trading in client securities based on UPSI, the organization/firm shall restrict trading in certain securities and designate such list as restricted/grey list.
+
+2025-03-26 18:44:09,278 - INFO - Query: where can An FVCI registered with the SEBI invest?
+2025-03-26 18:44:09,292 - INFO - HNSW Search Time: 0.0140 seconds
+2025-03-26 18:44:09,292 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-26 18:44:09,334 - INFO - Chunk 1:
+Similarity Score: 0.8524272441864014
+Text (first 300 characters): An FVCI registered with the SEBI can invest in: a. Securities issued by an Indian company in the following sectors, and whose securities are not listed on a recognized stock exchange at the time of issue of securities: i. Biotechnology; ii.
+
+2025-03-26 18:44:09,368 - INFO - Chunk 2:
+Similarity Score: 0.6698166131973267
+Text (first 300 characters): H. Foreign venture capital investors (“FVCI”)
+
+2025-03-26 18:44:09,424 - INFO - Chunk 3:
+Similarity Score: 0.6667681932449341
+Text (first 300 characters): An FVCI may purchase securities or instruments either from issuer of securities/instruments or from any person holding these securities or instruments. FVCI may invest in securities on a recognized stock exchange subject to the provisions of Securities and Exchange Board of India (FVCI) Regulations,...
+
+2025-03-26 18:44:09,468 - INFO - Chunk 4:
+Similarity Score: 0.6402260065078735
+Text (first 300 characters): The FVCI may acquire, by purchase or otherwise, from or transfer by sale or otherwise, to any person resident in or outside India, any security or instrument it is allowed to invest in, at a price that is mutually acceptable to the buyer and the seller/issuer.
+
+2025-03-26 18:44:09,509 - INFO - Chunk 5:
+Similarity Score: 0.5866698622703552
+Text (first 300 characters): An FPI may purchase units of domestic mutual funds or Category III Alternative Investment Fund or offshore fund for which no objection is issued in accordance with SEBI (Mutual Fund) Regulations, 1996, which in turn invest more than 50% in equity instruments on repatriation basis subject to the term...
+
+2025-03-26 18:44:09,509 - INFO - BM25 Filtered Candidates Found.
+2025-03-26 18:44:09,509 - INFO - 
+Final Context for LLM Prompt:
+An FVCI registered with the SEBI can invest in: a. Securities issued by an Indian company in the following sectors, and whose securities are not listed on a recognized stock exchange at the time of issue of securities: i. Biotechnology; ii.
+
+An FPI may purchase units of domestic mutual funds or Category III Alternative Investment Fund or offshore fund for which no objection is issued in accordance with SEBI (Mutual Fund) Regulations, 1996, which in turn invest more than 50% in equity instruments on repatriation basis subject to the terms and conditions specified by the SEBI and the RBI. d.
+
+2025-03-27 01:07:51,217 - INFO - Use pytorch device_name: cpu
+2025-03-27 01:07:51,218 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-27 01:10:34,474 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-27 01:10:34,475 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-27 01:10:34,475 - WARNING - Falling back to partitioning with hi_res.
+2025-03-27 01:10:35,576 - INFO - Reading PDF for file: uploads\Simple Merger and Acquisition.pdf ...
+2025-03-27 01:10:35,592 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-27 01:10:51,214 - INFO - Query: Under the Companies Act 2013, what are the key conditions for a 'fast-track merger,' and which entities are eligible for this process?
+2025-03-27 01:10:51,233 - INFO - HNSW Search Time: 0.0180 seconds
+2025-03-27 01:10:51,233 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-27 01:10:51,270 - INFO - Chunk 1:
+Similarity Score: 0.7579682469367981
+Text (first 300 characters): B. Fast track merger The Fast Track merger covered under section 233 of CA 2013 requires approval from shareholders, creditors, the Registrar of Companies, the Official Liquidator and the Regional Director.
+
+2025-03-27 01:10:51,308 - INFO - Chunk 2:
+Similarity Score: 0.7318874001502991
+Text (first 300 characters): Under the fast track merger, scheme of merger shall be entered into between the following companies: i. two or more small companies (private companies having paid-up capital of less than INR 100 million and turnover of less than INR 1 billion per last audited financial statements); or ii.
+
+2025-03-27 01:10:51,341 - INFO - Chunk 3:
+Similarity Score: 0.6966620683670044
+Text (first 300 characters): iii. The procedure prescribed under CA 2013 for undertaking mergers must be followed.
+
+2025-03-27 01:10:51,376 - INFO - Chunk 4:
+Similarity Score: 0.6244377493858337
+Text (first 300 characters): The biggest obstacle in the way of completing a merger or an amalgamation remains the often long drawn out court procedure required for the sanction of a scheme of arrangement. 105. November 24, 1888 – November 1, 1955.
+
+2025-03-27 01:10:51,416 - INFO - Chunk 5:
+Similarity Score: 0.6217721104621887
+Text (first 300 characters): The Merger Provisions are in fact worded so widely that they provide for and regulate all kinds of corporate restructuring that a company can possibly undertake, such as mergers, amalgamations, demergers, spin-off/ hive off, and every other compromise, settlement, agreement or arrangement between a ...
+
+2025-03-27 01:10:51,417 - INFO - BM25 Filtered Candidates Found.
+2025-03-27 01:10:51,417 - INFO - 
+Final Context for LLM Prompt:
+The Merger Provisions are in fact worded so widely that they provide for and regulate all kinds of corporate restructuring that a company can possibly undertake, such as mergers, amalgamations, demergers, spin-off/ hive off, and every other compromise, settlement, agreement or arrangement between a company and its members and/or its creditors.
+
+Under the fast track merger, scheme of merger shall be entered into between the following companies: i. two or more small companies (private companies having paid-up capital of less than INR 100 million and turnover of less than INR 1 billion per last audited financial statements); or ii.
+
+2025-03-27 01:12:27,751 - INFO - Query: "What are the RBI’s conditions for a cross-border merger under Section 234 of the Companies Act 2013?"
+2025-03-27 01:12:27,765 - INFO - HNSW Search Time: 0.0130 seconds
+2025-03-27 01:12:27,766 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-27 01:12:27,825 - INFO - Chunk 1:
+Similarity Score: 0.7314229607582092
+Text (first 300 characters): The RBI also issued the Foreign Exchange Management (Cross Border Merger) Regulations, 2018 (“Merger Regulations”) on March 20, 2018 which provide that any transaction undertaken in relation to a cross-border merger in accordance with the FEMA Regulations shall be deemed to have been approved by the...
+
+2025-03-27 01:12:27,859 - INFO - Chunk 2:
+Similarity Score: 0.713340699672699
+Text (first 300 characters): C. Cross Border Mergers Section 234 of the CA 2013 permits mergers between Indian and foreign companies with © Nishith Desai Associates 2020 Mergers and Acquisitions 5 prior approval of the Reserve Bank of India (“RBI”).
+
+2025-03-27 01:12:27,883 - INFO - Chunk 3:
+Similarity Score: 0.5929721593856812
+Text (first 300 characters): iii. The procedure prescribed under CA 2013 for undertaking mergers must be followed.
+
+2025-03-27 01:12:27,914 - INFO - Chunk 4:
+Similarity Score: 0.5702993273735046
+Text (first 300 characters): Exemption to court approved merger The Preferential Issue Regulations shall not apply in case a preferential allotment of shares is made pursuant to a scheme of arrangement approved by the NCLT under the Merger Provisions discussed above.32 B. Securities and Exchange Board of India (Substantial Acqu...
+
+2025-03-27 01:12:27,942 - INFO - Chunk 5:
+Similarity Score: 0.5580278038978577
+Text (first 300 characters): A. Procedure under the Merger Provisions Since a merger essentially involves an arrangement between companies, those companies which intend to merge must make an application to the National Company Law Tribunal (“NCLT”)
+
+2025-03-27 01:12:27,943 - INFO - BM25 Filtered Candidates Found.
+2025-03-27 01:12:27,943 - INFO - 
+Final Context for LLM Prompt:
+C. Cross Border Mergers Section 234 of the CA 2013 permits mergers between Indian and foreign companies with © Nishith Desai Associates 2020 Mergers and Acquisitions 5 prior approval of the Reserve Bank of India (“RBI”).
+
+iii. The procedure prescribed under CA 2013 for undertaking mergers must be followed.
+
+2025-03-27 01:13:23,997 - INFO - Query: "How is the capital gains tax calculated in a slump sale under Section 50B of the Income Tax Act?"
+2025-03-27 01:13:24,017 - INFO - HNSW Search Time: 0.0200 seconds
+2025-03-27 01:13:24,018 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-27 01:13:24,065 - INFO - Chunk 1:
+Similarity Score: 0.7126139998435974
+Text (first 300 characters): C. Capital Gains Tax Implications for a Slump Sale A slump sale is a transaction by way of ‘sale’ as a result of which the transferor transfers one or more of its undertakings on a going concern basis for a lump sum consideration, without assigning values to the individual assets and liabilities of ...
+
+2025-03-27 01:13:24,097 - INFO - Chunk 2:
+Similarity Score: 0.6073766946792603
+Text (first 300 characters): The legal and tax considerations of slump sale vis a vis an asset sale is discussed in greater detail in Part VI of this Paper. Another form of acquisition may be by way of demerger.
+
+2025-03-27 01:13:24,133 - INFO - Chunk 3:
+Similarity Score: 0.582745373249054
+Text (first 300 characters): If the undertaking, which is being sold under slump sale was held by the transferor Indian company for more than 36 months, the capital gains realized on such sale would be taxed as LTCG, i.e. at the rate of 20% (exclusive of surcharge and education cess).
+
+2025-03-27 01:13:24,168 - INFO - Chunk 4:
+Similarity Score: 0.5789679288864136
+Text (first 300 characters): Section 2(42C) of the ITA defines slump sale as a “transfer of one or more undertakings as a result of the sale for a lump sum consideration without values being assigned to the individual assets and liabilities in such sales”.
+
+2025-03-27 01:13:24,211 - INFO - Chunk 5:
+Similarity Score: 0.5421568751335144
+Text (first 300 characters): Explanation 6 to section 9(1)(i) was introduced through Finance Act, 2015 a. date on which the accounting period of the foreign company / entity ends preceding the date of transfer of a share or an interest; or b. date of transfer, if the book value of the assets of the foreign company/ entity on th...
+
+2025-03-27 01:13:24,212 - INFO - BM25 Filtered Candidates Found.
+2025-03-27 01:13:24,212 - INFO - 
+Final Context for LLM Prompt:
+If the undertaking, which is being sold under slump sale was held by the transferor Indian company for more than 36 months, the capital gains realized on such sale would be taxed as LTCG, i.e. at the rate of 20% (exclusive of surcharge and education cess).
+
+C. Capital Gains Tax Implications for a Slump Sale A slump sale is a transaction by way of ‘sale’ as a result of which the transferor transfers one or more of its undertakings on a going concern basis for a lump sum consideration, without assigning values to the individual assets and liabilities of the undertaking.97 For the purpose of computing capital gains, the cost of acquisition would be the ‘net worth’ of the undertaking on the date of the transfer.98 The ‘net worth’ of the undertaking shall be determined by calculating the difference between the aggregate value of total assets and aggregate value of total liabilities as per the books of accounts of the seller.
+
+2025-03-27 02:59:12,315 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-27 02:59:12,316 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-27 02:59:12,316 - WARNING - Falling back to partitioning with hi_res.
+2025-03-27 02:59:12,318 - INFO - Reading PDF for file: uploads\sample-privacy-policy-template.pdf ...
+2025-03-27 02:59:12,328 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-27 02:59:37,059 - INFO - Query: Who can the service provider sell my data to?
+2025-03-27 02:59:37,089 - INFO - HNSW Search Time: 0.0296 seconds
+2025-03-27 02:59:37,089 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-27 02:59:37,121 - INFO - Chunk 1:
+Similarity Score: 0.6541134715080261
+Text (first 300 characters): We use may have access to Your Personal Data. These third-party vendors collect, store, use, process and transfer information about Your activity on Our Service in accordance with their Privacy Policies.
+
+2025-03-27 02:59:37,153 - INFO - Chunk 2:
+Similarity Score: 0.6308645606040955
+Text (first 300 characters): While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security. Detailed Information on the Processing of Your Personal Data The Service Providers
+
+2025-03-27 02:59:37,186 - INFO - Chunk 3:
+Similarity Score: 0.5846036672592163
+Text (first 300 characters): Other legal requirements The Company may disclose Your Personal Data in the good faith belief that such action is necessary to: \u25cf Comply with a legal obligation \u25cf Protect and defend the rights or property of the Company \u25cf Prevent or investigate possible wrongdoing in connection with the Service \u25cf Pr...
+
+2025-03-27 02:59:37,218 - INFO - Chunk 4:
+Similarity Score: 0.579942524433136
+Text (first 300 characters): The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user. \u25cf
+
+2025-03-27 02:59:37,249 - INFO - Chunk 5:
+Similarity Score: 0.568231999874115
+Text (first 300 characters): Transfer of Your Personal Data Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located.
+
+2025-03-27 02:59:37,249 - INFO - BM25 Filtered Candidates Found.
+2025-03-27 02:59:37,249 - INFO - 
+Final Context for LLM Prompt:
+The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user. \u25cf
+
+Other legal requirements The Company may disclose Your Personal Data in the good faith belief that such action is necessary to: \u25cf Comply with a legal obligation \u25cf Protect and defend the rights or property of the Company \u25cf Prevent or investigate possible wrongdoing in connection with the Service \u25cf Protect the personal safety of Users of the Service or the public \u25cf Protect against legal liability Security of Your Personal Data
+
+2025-03-27 03:00:40,011 - INFO - Query: How can The company make use of my data?
+2025-03-27 03:00:40,025 - INFO - HNSW Search Time: 0.0145 seconds
+2025-03-27 03:00:40,025 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-27 03:00:40,056 - INFO - Chunk 1:
+Similarity Score: 0.7290800213813782
+Text (first 300 characters): Law enforcement Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+2025-03-27 03:00:40,083 - INFO - Chunk 2:
+Similarity Score: 0.7052056193351746
+Text (first 300 characters): We use may have access to Your Personal Data. These third-party vendors collect, store, use, process and transfer information about Your activity on Our Service in accordance with their Privacy Policies.
+
+2025-03-27 03:00:40,109 - INFO - Chunk 3:
+Similarity Score: 0.7014089822769165
+Text (first 300 characters): The Company may use Personal Data for the following purposes: \u25cf To provide and maintain our Service, including to monitor the usage of our Service.
+
+2025-03-27 03:00:40,141 - INFO - Chunk 4:
+Similarity Score: 0.672538161277771
+Text (first 300 characters): Other legal requirements The Company may disclose Your Personal Data in the good faith belief that such action is necessary to: \u25cf Comply with a legal obligation \u25cf Protect and defend the rights or property of the Company \u25cf Prevent or investigate possible wrongdoing in connection with the Service \u25cf Pr...
+
+2025-03-27 03:00:40,167 - INFO - Chunk 5:
+Similarity Score: 0.6712173819541931
+Text (first 300 characters): Transfer of Your Personal Data Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located.
+
+2025-03-27 03:00:40,168 - INFO - BM25 Filtered Candidates Found.
+2025-03-27 03:00:40,168 - INFO - 
+Final Context for LLM Prompt:
+The Company may use Personal Data for the following purposes: \u25cf To provide and maintain our Service, including to monitor the usage of our Service.
+
+Other legal requirements The Company may disclose Your Personal Data in the good faith belief that such action is necessary to: \u25cf Comply with a legal obligation \u25cf Protect and defend the rights or property of the Company \u25cf Prevent or investigate possible wrongdoing in connection with the Service \u25cf Protect the personal safety of Users of the Service or the public \u25cf Protect against legal liability Security of Your Personal Data
+
+2025-03-27 03:01:47,960 - INFO - Query: What happens in the case of a merger to my data?
+2025-03-27 03:01:48,072 - INFO - HNSW Search Time: 0.1123 seconds
+2025-03-27 03:01:48,073 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-27 03:01:48,150 - INFO - Chunk 1:
+Similarity Score: 0.7529453039169312
+Text (first 300 characters): Disclosure of Your Personal Data Business Transactions If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred.
+
+2025-03-27 03:01:48,347 - INFO - Chunk 2:
+Similarity Score: 0.5449013710021973
+Text (first 300 characters): \u25cf For business transfers: We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Pe...
+
+2025-03-27 03:01:48,530 - INFO - Chunk 3:
+Similarity Score: 0.5263556838035583
+Text (first 300 characters): Transfer of Your Personal Data Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located.
+
+2025-03-27 03:01:48,639 - INFO - Chunk 4:
+Similarity Score: 0.520171046257019
+Text (first 300 characters): \u25cf For business transfers: We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.
+
+2025-03-27 03:01:48,713 - INFO - Chunk 5:
+Similarity Score: 0.5171420574188232
+Text (first 300 characters): We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+2025-03-27 03:01:48,714 - INFO - BM25 Filtered Candidates Found.
+2025-03-27 03:01:48,714 - INFO - 
+Final Context for LLM Prompt:
+\u25cf For business transfers: We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.
+
+Disclosure of Your Personal Data Business Transactions If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred.
+
+2025-03-27 03:04:52,979 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-27 03:04:52,982 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-27 03:04:52,982 - WARNING - Falling back to partitioning with hi_res.
+2025-03-27 03:04:52,982 - INFO - Reading PDF for file: uploads\Implementation Agreement.pdf ...
+2025-03-27 03:04:52,993 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-27 03:06:10,478 - INFO - Query: What does the document say about the number of shares according to the securities?
+2025-03-27 03:06:10,521 - INFO - HNSW Search Time: 0.0423 seconds
+2025-03-27 03:06:10,521 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-27 03:06:10,596 - INFO - Chunk 1:
+Similarity Score: 0.5116509199142456
+Text (first 300 characters): Page 16 (i) each Adamus Group member is solvent and in compliance with applicable laws, regulations and rules of any applicable securities exchange, has all material licences, permits and authorities to conduct its activities as conducted on the date of the agreement and, as far as Adamus is aware, ...
+
+2025-03-27 03:06:10,669 - INFO - Chunk 2:
+Similarity Score: 0.4234577417373657
+Text (first 300 characters): If ASX: (a) imposes conditions on the admission of Endeavour to the official list of the ASX or the approval for official quotation of the New Endeavour Shares (either in the form of shares or CDIs), which conditions Endeavour does not reasonably consider to be acceptable; or (b) otherwise refuses t...
+
+2025-03-27 03:06:10,738 - INFO - Chunk 3:
+Similarity Score: 0.4153289794921875
+Text (first 300 characters): Representations and warranties for the benefit of Adamus alone 11.2 Endeavour represents and warrants to Adamus that: (a) on the date of this agreement and the Second Court Date, except as consented to in writing by Adamus: (i) each Endeavour Group member is solvent and in compliance with applicable...
+
+2025-03-27 03:06:10,803 - INFO - Chunk 4:
+Similarity Score: 0.41262802481651306
+Text (first 300 characters): Page 34 (h) issuance of any equity, debt or hybrid security (including any security convertible into shares of any class) or rights, warrants or options to subscribe for or acquire any such securities other than the New Endeavour Shares or as publicly disclosed before the date of this agreement or i...
+
+2025-03-27 03:06:10,859 - INFO - Chunk 5:
+Similarity Score: 0.4103906750679016
+Text (first 300 characters): Allotment and issue of New Endeavour Shares 4.1 Subject to the Scheme becoming Effective, Endeavour must: (a) allot and issue the New Endeavour Shares to Participants in accordance with the Scheme on terms such that each New Endeavour Share will rank equally in all respects with each existing Endeav...
+
+2025-03-27 03:06:10,862 - INFO - BM25 Filtered Candidates Found.
+2025-03-27 03:06:10,862 - INFO - 
+Final Context for LLM Prompt:
+If ASX: (a) imposes conditions on the admission of Endeavour to the official list of the ASX or the approval for official quotation of the New Endeavour Shares (either in the form of shares or CDIs), which conditions Endeavour does not reasonably consider to be acceptable; or (b) otherwise refuses to admit Endeavour to the official list of the ASX or refuses approval for official quotation of the New Endeavour Shares (either in the form of shares or CDIs), the parties must consult in good faith to determine whether: (c) the application for admission of Endeavour to the official list of the ASX and for official quotation of the New Endeavour Shares shall be withdrawn; and (d) the condition precedent in clause 5.1(a)(iii) will be waived but only in so far as it relates to these matters.
+
+Representations and warranties for the benefit of Adamus alone 11.2 Endeavour represents and warrants to Adamus that: (a) on the date of this agreement and the Second Court Date, except as consented to in writing by Adamus: (i) each Endeavour Group member is solvent and in compliance with applicable laws, regulations and rules of any applicable securities exchange, has all material licences, permits and authorities to conduct its activities as conducted on the date of the agreement and, as far as Endeavour is aware, is not the subject of any action or investigation by a Governmental Agency; and (ii) it has no reason to believe, acting reasonably, that all Regulatory Approvals which the Endeavour Group requires to operate its business as operated at the date of this agreement will not be granted or issued in due course, or, if already granted or issued, will not remain in force after the date of this agreement (including as a result of implementation of the Scheme) on materially the same terms that currently exist; (b) as at the date of this agreement, the total securities of Endeavour on issue that are Endeavour Shares or are convertible into Endeavour Shares are as follows: (i) 114,674,946 Endeavour Shares; (ii) 10,641,330 options to subscribe for Endeavour Shares issued under the Endeavour Option Plans; and Merger Implementation Agreement wlrm A0118375128v6 120179794 Page 15 (iii) 33,664,873 common share purchase warrants to subscribe for Endeavour Shares, and no member of the Endeavour Group has issued (or is actually or contingently required to issue) any other securities that are still outstanding (or may become outstanding) and that may convert into Endeavour securities other than in connection with an employee incentive arrangement (including any security issued upon conversion or exercise of rights attaching to any security issued under an employee incentive arrangement); (c) as at the date of this agreement and the Second Court Date, Endeavour has used reasonable endeavours in good faith to provide to Adamus all material information reasonably requested by Adamus, and Endeavour has not knowingly or recklessly: (i) omitted anything from such information as to make any part of that information materially false, misleading or inaccurate, or likely to mislead; or (ii) included anything that is materially false, misleading or inaccurate, or likely to mislead, in such information; (d) on the First Court Date, the date of the Scheme Booklet, the date of the Endeavour Circular and the Second Court Date, the Endeavour Provided Information: (i) has been prepared and provided in good faith, with its consent and on the understanding that the Endeavour Provided Information will be relied on by Adamus to prepare the Scheme Booklet and to provide it to Adamus Shareholders and to propose the Scheme and by the Independent Expert to prepare the Independent Expert's Report; (ii) complies with applicable laws, regulations or rules of any applicable securities exchange; and (iii) is not misleading or deceptive (in the case of the Scheme Booklet), or misleading or inaccurate (in the case of the Endeavour Circular), in each case in any material respect and does not contain any material omissions, in the form and context in which it appears in the Scheme Booklet or in the Endeavour Circular (as the case may be); and (e) on the date of this agreement (following the making by Endeavour of the Public Announcement), the First Court Date, the date of the Scheme Meeting and the Second Court Date, Endeavour is not in breach of its continuous disclosure obligations under any applicable listing rule or law and is not withholding any information from Adamus that is being withheld from public disclosure in reliance on any exemption under any applicable listing rule or law.
+
+2025-03-27 03:06:58,099 - INFO - Query: Under what circumstances can endeavour terminate this contract?
+2025-03-27 03:06:58,148 - INFO - HNSW Search Time: 0.0492 seconds
+2025-03-27 03:06:58,149 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-27 03:06:58,252 - INFO - Chunk 1:
+Similarity Score: 0.7124810814857483
+Text (first 300 characters): Termination rights of Endeavour 15.4 Endeavour may terminate this agreement at any time before 8am on the Second Court Date by notice to Adamus: (a) if there is an Adamus Regulated Event or Adamus Material Adverse Change, provided that notice is provided to Adamus of the relevant circumstances upon ...
+
+2025-03-27 03:06:58,309 - INFO - Chunk 2:
+Similarity Score: 0.6281263828277588
+Text (first 300 characters): Termination rights of Adamus 15.3 Adamus may terminate this agreement at any time before 8am on the Second Court Date by notice to Endeavour: (a) if there is an Endeavour Regulated Event or Endeavour Material Adverse Change, provided that notice is provided to Endeavour of the relevant circumstances...
+
+2025-03-27 03:06:58,344 - INFO - Chunk 3:
+Similarity Score: 0.6165622472763062
+Text (first 300 characters): Merger Implementation Agreement wlrm A0118375128v6 120179794 Page 22 13.4 Despite any other term of this agreement, the Endeavour Break Fee Amount will not be payable to Adamus if Endeavour is entitled to terminate this agreement under clause 15.1(b) or 15.4 (other than under clause 15.4(b)). 13.5 T...
+
+2025-03-27 03:06:58,380 - INFO - Chunk 4:
+Similarity Score: 0.5972745418548584
+Text (first 300 characters): Commitment to Scheme Endeavour Commitment 12.1 Endeavour undertakes that, as at the date of this agreement, it will cease any existing negotiations or discussions in respect of any: (a) Competing Proposal for Endeavour; or Merger Implementation Agreement wlrm A0118375128v6 120179794 Page 18 (b) othe...
+
+2025-03-27 03:06:58,430 - INFO - Chunk 5:
+Similarity Score: 0.5840301513671875
+Text (first 300 characters): If Endeavour receives a Competing Proposal for Endeavour that the Endeavour Board determines, acting in good faith and acting reasonably, is, or is likely to result in, a Superior Merger Implementation Agreement wlrm A0118375128v6 120179794 Page 19 Proposal for Endeavour which requires the Transacti...
+
+2025-03-27 03:06:58,431 - INFO - BM25 Filtered Candidates Found.
+2025-03-27 03:06:58,431 - INFO - 
+Final Context for LLM Prompt:
+Termination rights of Endeavour 15.4 Endeavour may terminate this agreement at any time before 8am on the Second Court Date by notice to Adamus: (a) if there is an Adamus Regulated Event or Adamus Material Adverse Change, provided that notice is provided to Adamus of the relevant circumstances upon which Endeavour proposes to rely in terminating this agreement and such circumstances have continued to exist for a period of 5 Business Days from the Merger Implementation Agreement wlrm A0118375128v6 120179794
+
+Termination rights of Adamus 15.3 Adamus may terminate this agreement at any time before 8am on the Second Court Date by notice to Endeavour: (a) if there is an Endeavour Regulated Event or Endeavour Material Adverse Change, provided that notice is provided to Endeavour of the relevant circumstances upon which Adamus proposes to rely in terminating this agreement and such circumstances have continued to exist for a period of 5 Business Days from the time such notice is given (or any shorter period ending at 5pm on the last Business Day before the Second Court Date); (b) if the Adamus Break Fee Amount is payable by Adamus and has been paid in full to Endeavour; or (c) if an Endeavour Director publicly changes, qualifies or withdraws their statement that the Transaction is in the best interests of Endeavour Shareholders or their recommendation that Endeavour Shareholders approve the Endeavour Resolutions, or publicly recommends, promotes or endorses a Superior Proposal for Endeavour; or (d) if a Competing Proposal for Endeavour is announced, made or becomes open for acceptance and, pursuant to that Competing Proposal for Endeavour, the bidder for Endeavour (consisting of any person, company or combination of persons or companies, acting in concert by virtue of an agreement, arrangement, commitment or understanding), acquires beneficial ownership (as determined under Part XX of the Securities Act (Ontario)) or control or direction over more than 50% of all Endeavour Shares and the Competing Proposal for Endeavour is (or has become) free from any defeating conditions).
+
+2025-03-27 03:08:21,573 - INFO - Query: What all things can't the parties do until the document is completed or terminated?
+2025-03-27 03:08:21,665 - INFO - HNSW Search Time: 0.0912 seconds
+2025-03-27 03:08:21,665 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-27 03:08:21,940 - INFO - Chunk 1:
+Similarity Score: 0.5055350065231323
+Text (first 300 characters): Termination Termination rights of both parties 15.1 A party may terminate this agreement by notice to the other party: (a) if a condition precedent for the benefit of that party is not satisfied (or waived, where permitted) (subject, in relation to the condition precedent in clause 5.1(e), to any ap...
+
+2025-03-27 03:08:22,133 - INFO - Chunk 2:
+Similarity Score: 0.49118590354919434
+Text (first 300 characters): Termination rights of Adamus 15.3 Adamus may terminate this agreement at any time before 8am on the Second Court Date by notice to Endeavour: (a) if there is an Endeavour Regulated Event or Endeavour Material Adverse Change, provided that notice is provided to Endeavour of the relevant circumstances...
+
+2025-03-27 03:08:22,238 - INFO - Chunk 3:
+Similarity Score: 0.48389917612075806
+Text (first 300 characters): Effect of termination 15.5 This clause 15 and clauses 11, 13, 16, 17, 19 and 20 will survive termination of this agreement. 16.
+
+2025-03-27 03:08:22,308 - INFO - Chunk 4:
+Similarity Score: 0.47519946098327637
+Text (first 300 characters): 7. Conduct of Business and Requests for Access 7.1 Each of Adamus and Endeavour undertake that it and its subsidiaries will: (a) in the period from the date of this agreement to the earlier of the Implementation Date and the date this agreement is terminated: (i) conduct its business and operations ...
+
+2025-03-27 03:08:22,346 - INFO - Chunk 5:
+Similarity Score: 0.4481963813304901
+Text (first 300 characters): Prior to making any public announcement or disclosure in connection with this agreement (including its termination), the Scheme or any other Transaction, each party must use its reasonable endeavours to consult with the other party as to, and to seek to agree with the other party (each acting reason...
+
+2025-03-27 03:08:22,347 - INFO - BM25 Filtered Candidates Found.
+2025-03-27 03:08:22,347 - INFO - 
+Final Context for LLM Prompt:
+7. Conduct of Business and Requests for Access 7.1 Each of Adamus and Endeavour undertake that it and its subsidiaries will: (a) in the period from the date of this agreement to the earlier of the Implementation Date and the date this agreement is terminated: (i) conduct its business and operations in the ordinary course and consistent with the manner conducted prior to this agreement and in compliance with all applicable laws and regulations; (ii) preserve its current business organisation, the services of its current officers and its current relationship with third parties (including governmental agencies, rating agencies, customers, suppliers, licensors and licensees); (b) in the period from the date of this agreement to the earlier of 5pm on the Business Day before the Second Court Date and the date this agreement is terminated (and subject to the provisions of the Confidentiality Agreement and to the proper performance by its officers of their fiduciary duties): (i) respond promptly to reasonable requests from the other party for information regarding its business and operations (subject to maintaining confidentiality of all confidential information which may be provided); and (ii) consult with the other party (to the extent legally permissible) with respect to any material dealings with a Governmental Agency or any action required to be taken in respect of: (A) any Regulatory Approval; and Merger Implementation Agreement wlrm A0118375128v6 120179794 Page 11 (B) any consent, waiver or release contemplated under clause 6.3(a).
+
+Termination rights of Adamus 15.3 Adamus may terminate this agreement at any time before 8am on the Second Court Date by notice to Endeavour: (a) if there is an Endeavour Regulated Event or Endeavour Material Adverse Change, provided that notice is provided to Endeavour of the relevant circumstances upon which Adamus proposes to rely in terminating this agreement and such circumstances have continued to exist for a period of 5 Business Days from the time such notice is given (or any shorter period ending at 5pm on the last Business Day before the Second Court Date); (b) if the Adamus Break Fee Amount is payable by Adamus and has been paid in full to Endeavour; or (c) if an Endeavour Director publicly changes, qualifies or withdraws their statement that the Transaction is in the best interests of Endeavour Shareholders or their recommendation that Endeavour Shareholders approve the Endeavour Resolutions, or publicly recommends, promotes or endorses a Superior Proposal for Endeavour; or (d) if a Competing Proposal for Endeavour is announced, made or becomes open for acceptance and, pursuant to that Competing Proposal for Endeavour, the bidder for Endeavour (consisting of any person, company or combination of persons or companies, acting in concert by virtue of an agreement, arrangement, commitment or understanding), acquires beneficial ownership (as determined under Part XX of the Securities Act (Ontario)) or control or direction over more than 50% of all Endeavour Shares and the Competing Proposal for Endeavour is (or has become) free from any defeating conditions).
+
+2025-03-27 03:10:58,936 - INFO - Query: Convert parameters will adamus and endeavour have to consult each other on?
+2025-03-27 03:10:58,952 - INFO - HNSW Search Time: 0.0166 seconds
+2025-03-27 03:10:58,952 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-27 03:10:58,989 - INFO - Chunk 1:
+Similarity Score: 0.5256254076957703
+Text (first 300 characters): Adamus Share Registrar means, in Australia, Computershare Investor Services Pty Limited (ACN 078 279 277) and, in Canada, Computershare Investor Services Inc (corporation number 391631-6). Agreed Conversion Rate means a rate of conversion between US$ and A$ where US$1 = A$0.9673 (and, accordingly, A...
+
+2025-03-27 03:10:59,019 - INFO - Chunk 2:
+Similarity Score: 0.5199778079986572
+Text (first 300 characters): 5.4 Each of Adamus and Endeavour must use its best endeavours to, and cooperate with each other to, satisfy the conditions precedent. Adamus and Endeavour must promptly update each other with respect to their progress in satisfying the conditions precedent. 5.5
+
+2025-03-27 03:10:59,052 - INFO - Chunk 3:
+Similarity Score: 0.49996837973594666
+Text (first 300 characters): Each of Adamus and Endeavour must take all necessary steps, and cooperate with each other, to propose and implement the Scheme and (subject to clause 6.3(p)) give effect to the orders of the Court approving the Scheme, and in accordance with the Timetable (although the Timetable may be amended with ...
+
+2025-03-27 03:10:59,098 - INFO - Chunk 4:
+Similarity Score: 0.49080443382263184
+Text (first 300 characters): 9.2 Adamus must use its best endeavours to procure that the Adamus Board and each Adamus Director: (a) does not change, qualify or withdraw any of the statements or the recommendation contemplated under clauses 9.1(a) or 9.1(b); and (b) does not make any public statement or take any action that is, ...
+
+2025-03-27 03:10:59,134 - INFO - Chunk 5:
+Similarity Score: 0.4808390736579895
+Text (first 300 characters): Adamus undertakes that, as at the date of this agreement, it will cease any existing negotiations or discussions in respect of any: (a) Competing Proposal for Adamus; or (b) other material asset disposals or spin-off or other restructuring, other than any matter in respect of which Endeavour provide...
+
+2025-03-27 03:10:59,135 - INFO - BM25 Filtered Candidates Found.
+2025-03-27 03:10:59,135 - INFO - 
+Final Context for LLM Prompt:
+5.4 Each of Adamus and Endeavour must use its best endeavours to, and cooperate with each other to, satisfy the conditions precedent. Adamus and Endeavour must promptly update each other with respect to their progress in satisfying the conditions precedent. 5.5
+
+Adamus undertakes that, as at the date of this agreement, it will cease any existing negotiations or discussions in respect of any: (a) Competing Proposal for Adamus; or (b) other material asset disposals or spin-off or other restructuring, other than any matter in respect of which Endeavour provides its prior written consent after the date of this agreement. 12.11
+
+2025-03-27 03:11:20,086 - INFO - Query: on what parameters will adamus and endeavour have to consult each other on?
+2025-03-27 03:11:20,100 - INFO - HNSW Search Time: 0.0135 seconds
+2025-03-27 03:11:20,100 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-27 03:11:20,133 - INFO - Chunk 1:
+Similarity Score: 0.714607834815979
+Text (first 300 characters): 5.4 Each of Adamus and Endeavour must use its best endeavours to, and cooperate with each other to, satisfy the conditions precedent. Adamus and Endeavour must promptly update each other with respect to their progress in satisfying the conditions precedent. 5.5
+
+2025-03-27 03:11:20,175 - INFO - Chunk 2:
+Similarity Score: 0.6483151912689209
+Text (first 300 characters): Endeavour must provide to Adamus regular drafts of the Endeavour Circular and Endeavour must consider in good faith any comments by Adamus in relation to the contents of the Endeavour Circular, but Endeavour reserves the right to determine, in good faith as it sees fit, any dispute as to the content...
+
+2025-03-27 03:11:20,215 - INFO - Chunk 3:
+Similarity Score: 0.633073091506958
+Text (first 300 characters): 10.4 Adamus and Endeavour agree to consult with each other in advance in relation to: (a) overall communication plans; (b) approaches to Adamus Shareholders or Endeavour Shareholders; (c) approaches to media; and Merger Implementation Agreement wlrm A0118375128v6 120179794 Page 14 (d) written presen...
+
+2025-03-27 03:11:20,248 - INFO - Chunk 4:
+Similarity Score: 0.6151463389396667
+Text (first 300 characters): Each of Adamus and Endeavour must take all necessary steps, and cooperate with each other, to propose and implement the Scheme and (subject to clause 6.3(p)) give effect to the orders of the Court approving the Scheme, and in accordance with the Timetable (although the Timetable may be amended with ...
+
+2025-03-27 03:11:20,286 - INFO - Chunk 5:
+Similarity Score: 0.6141301393508911
+Text (first 300 characters): 11.5 Adamus agrees with Endeavour (on Endeavour's own behalf and separately as trustee for each of the Endeavour Indemnified Parties) to indemnify and keep indemnified the Endeavour Indemnified Parties from and against all Losses which an Endeavour Indemnified Party may suffer or incur by reason of ...
+
+2025-03-27 03:11:20,287 - INFO - BM25 Filtered Candidates Found.
+2025-03-27 03:11:20,288 - INFO - 
+Final Context for LLM Prompt:
+10.4 Adamus and Endeavour agree to consult with each other in advance in relation to: (a) overall communication plans; (b) approaches to Adamus Shareholders or Endeavour Shareholders; (c) approaches to media; and Merger Implementation Agreement wlrm A0118375128v6 120179794 Page 14 (d) written presentations, concerning the Scheme or any other Transaction (including to provide each other a reasonable advance opportunity to comment on drafts) and to ensure that the information used in (a) to (d) above is consistent with the information in the Scheme Booklet. 10.5
+
+Endeavour must provide to Adamus regular drafts of the Endeavour Circular and Endeavour must consider in good faith any comments by Adamus in relation to the contents of the Endeavour Circular, but Endeavour reserves the right to determine, in good faith as it sees fit, any dispute as to the contents of the Endeavour Circular (other than any dispute as to the Adamus Circular Information, which will be determined by Adamus in good faith as it sees fit).
+
+2025-03-27 03:14:37,415 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-27 03:14:37,416 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-27 03:14:37,416 - WARNING - Falling back to partitioning with hi_res.
+2025-03-27 03:14:37,416 - INFO - Reading PDF for file: uploads\Release Agreement.pdf ...
+2025-03-27 03:14:37,423 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-27 03:18:18,323 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-27 03:18:18,324 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-27 03:18:18,324 - WARNING - Falling back to partitioning with hi_res.
+2025-03-27 03:18:18,325 - INFO - Reading PDF for file: uploads\Commercial Purchase and Sale Agreement.pdf ...
+2025-03-27 03:18:18,334 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-27 03:18:29,513 - INFO - Query: What does the survival clause state?
+2025-03-27 03:18:29,532 - INFO - HNSW Search Time: 0.0190 seconds
+2025-03-27 03:18:29,532 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-27 03:18:29,566 - INFO - Chunk 1:
+Similarity Score: 0.7003433108329773
+Text (first 300 characters): 228 B. Survival Clause.
+
+2025-03-27 03:18:29,608 - INFO - Chunk 2:
+Similarity Score: 0.39867106080055237
+Text (first 300 characters): If any portion or provision of this Agreement is held or adjudicated to be invalid or unenforceable for 274 any reason, each such portion or provision shall be severed from the remaining portions or provisions of this 275 Agreement, and the remaining portions or provisions shall be unaffected and re...
+
+2025-03-27 03:18:29,657 - INFO - Chunk 3:
+Similarity Score: 0.37941068410873413
+Text (first 300 characters): Notwithstanding the above, the representations and warranties 231 made in Exhibit “D” shall survive the Closing for a period of _______ days after the date of Closing.
+
+2025-03-27 03:18:29,697 - INFO - Chunk 4:
+Similarity Score: 0.35509192943573
+Text (first 300 characters): Any provision herein contained, which by its nature and effect, is required to be performed after 229 Closing shall survive the Closing and delivery of the deed and shall remain binding upon the parties to this 230 Agreement and shall be fully enforceable thereafter.
+
+2025-03-27 03:18:29,729 - INFO - Chunk 5:
+Similarity Score: 0.3374174237251282
+Text (first 300 characters): Failure to act in a timely manner under this paragraph 82 shall constitute a waiver of Buyer’s rights hereunder.
+
+2025-03-27 03:18:29,729 - INFO - BM25 Filtered Candidates Found.
+2025-03-27 03:18:29,729 - INFO - 
+Final Context for LLM Prompt:
+228 B. Survival Clause.
+
+2025-03-27 03:19:13,786 - INFO - Query: What does the document say about the survival clause?
+2025-03-27 03:19:13,804 - INFO - HNSW Search Time: 0.0182 seconds
+2025-03-27 03:19:13,804 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-27 03:19:13,872 - INFO - Chunk 1:
+Similarity Score: 0.6811622977256775
+Text (first 300 characters): 228 B. Survival Clause.
+
+2025-03-27 03:19:13,911 - INFO - Chunk 2:
+Similarity Score: 0.40981894731521606
+Text (first 300 characters): If any portion or provision of this Agreement is held or adjudicated to be invalid or unenforceable for 274 any reason, each such portion or provision shall be severed from the remaining portions or provisions of this 275 Agreement, and the remaining portions or provisions shall be unaffected and re...
+
+2025-03-27 03:19:13,947 - INFO - Chunk 3:
+Similarity Score: 0.4036259353160858
+Text (first 300 characters): Notwithstanding the above, the representations and warranties 231 made in Exhibit “D” shall survive the Closing for a period of _______ days after the date of Closing.
+
+2025-03-27 03:19:13,982 - INFO - Chunk 4:
+Similarity Score: 0.3833142817020416
+Text (first 300 characters): Any provision herein contained, which by its nature and effect, is required to be performed after 229 Closing shall survive the Closing and delivery of the deed and shall remain binding upon the parties to this 230 Agreement and shall be fully enforceable thereafter.
+
+2025-03-27 03:19:14,018 - INFO - Chunk 5:
+Similarity Score: 0.3699745237827301
+Text (first 300 characters): This 221 Agreement shall be for the benefit of, and be binding upon, the parties hereto, their heirs, successors, legal 222 representatives and assigns.
+
+2025-03-27 03:19:14,018 - INFO - BM25 Filtered Candidates Found.
+2025-03-27 03:19:14,018 - INFO - 
+Final Context for LLM Prompt:
+228 B. Survival Clause.
+
+Notwithstanding the above, the representations and warranties 231 made in Exhibit “D” shall survive the Closing for a period of _______ days after the date of Closing.
+
+2025-03-27 03:30:48,216 - INFO - Use pytorch device_name: cpu
+2025-03-27 03:30:48,226 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-27 03:34:26,215 - INFO - PDF text extraction failed, skip text extraction...
+2025-03-27 03:34:26,216 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-03-27 03:34:26,217 - WARNING - Falling back to partitioning with hi_res.
+2025-03-27 03:34:27,049 - INFO - Reading PDF for file: uploads\Simple Merger and Acquisition.pdf ...
+2025-03-27 03:34:27,060 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-03-27 03:34:40,979 - INFO - Query: What are the eligibility criteria for a fast-track merger under the Companies Act, 2013?
+2025-03-27 03:34:40,995 - INFO - HNSW Search Time: 0.0150 seconds
+2025-03-27 03:34:40,995 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-27 03:34:41,027 - INFO - Chunk 1:
+Similarity Score: 0.7227182388305664
+Text (first 300 characters): B. Fast track merger The Fast Track merger covered under section 233 of CA 2013 requires approval from shareholders, creditors, the Registrar of Companies, the Official Liquidator and the Regional Director.
+
+2025-03-27 03:34:41,054 - INFO - Chunk 2:
+Similarity Score: 0.6935855150222778
+Text (first 300 characters): iii. The procedure prescribed under CA 2013 for undertaking mergers must be followed.
+
+2025-03-27 03:34:41,087 - INFO - Chunk 3:
+Similarity Score: 0.6776790618896484
+Text (first 300 characters): Under the fast track merger, scheme of merger shall be entered into between the following companies: i. two or more small companies (private companies having paid-up capital of less than INR 100 million and turnover of less than INR 1 billion per last audited financial statements); or ii.
+
+2025-03-27 03:34:41,119 - INFO - Chunk 4:
+Similarity Score: 0.6079113483428955
+Text (first 300 characters): A. Mergers and Amalgamations The term ‘merger’ is not defined under the Companies Act, 2013 (“CA 2013”) or under Income Tax Act, 1961 (“ITA”).
+
+2025-03-27 03:34:41,154 - INFO - Chunk 5:
+Similarity Score: 0.5958194136619568
+Text (first 300 characters): The biggest obstacle in the way of completing a merger or an amalgamation remains the often long drawn out court procedure required for the sanction of a scheme of arrangement. 105. November 24, 1888 – November 1, 1955.
+
+2025-03-27 03:34:41,154 - INFO - BM25 Filtered Candidates Found.
+2025-03-27 03:34:41,155 - INFO - 
+Final Context for LLM Prompt:
+A. Mergers and Amalgamations The term ‘merger’ is not defined under the Companies Act, 2013 (“CA 2013”) or under Income Tax Act, 1961 (“ITA”).
+
+The biggest obstacle in the way of completing a merger or an amalgamation remains the often long drawn out court procedure required for the sanction of a scheme of arrangement. 105. November 24, 1888 – November 1, 1955.
+
+2025-03-27 03:34:58,925 - INFO - Query:  What are the RBI approval requirements for cross-border mergers?
+2025-03-27 03:34:58,956 - INFO - HNSW Search Time: 0.0311 seconds
+2025-03-27 03:34:58,956 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-27 03:34:58,982 - INFO - Chunk 1:
+Similarity Score: 0.8002761602401733
+Text (first 300 characters): The RBI also issued the Foreign Exchange Management (Cross Border Merger) Regulations, 2018 (“Merger Regulations”) on March 20, 2018 which provide that any transaction undertaken in relation to a cross-border merger in accordance with the FEMA Regulations shall be deemed to have been approved by the...
+
+2025-03-27 03:34:59,005 - INFO - Chunk 2:
+Similarity Score: 0.7376671433448792
+Text (first 300 characters): C. Cross Border Mergers Section 234 of the CA 2013 permits mergers between Indian and foreign companies with © Nishith Desai Associates 2020 Mergers and Acquisitions 5 prior approval of the Reserve Bank of India (“RBI”).
+
+2025-03-27 03:34:59,027 - INFO - Chunk 3:
+Similarity Score: 0.6132811307907104
+Text (first 300 characters): Any person intending to make any investments other than those specifically covered under the ODI Regulations must obtain the prior approval of the RBI.
+
+2025-03-27 03:34:59,053 - INFO - Chunk 4:
+Similarity Score: 0.5711668729782104
+Text (first 300 characters): Exemption to court approved merger The Preferential Issue Regulations shall not apply in case a preferential allotment of shares is made pursuant to a scheme of arrangement approved by the NCLT under the Merger Provisions discussed above.32 B. Securities and Exchange Board of India (Substantial Acqu...
+
+2025-03-27 03:34:59,074 - INFO - Chunk 5:
+Similarity Score: 0.5526849627494812
+Text (first 300 characters): iii. The procedure prescribed under CA 2013 for undertaking mergers must be followed.
+
+2025-03-27 03:34:59,074 - INFO - BM25 Filtered Candidates Found.
+2025-03-27 03:34:59,074 - INFO - 
+Final Context for LLM Prompt:
+The RBI also issued the Foreign Exchange Management (Cross Border Merger) Regulations, 2018 (“Merger Regulations”) on March 20, 2018 which provide that any transaction undertaken in relation to a cross-border merger in accordance with the FEMA Regulations shall be deemed to have been approved by the RBI. II.
+
+iii. The procedure prescribed under CA 2013 for undertaking mergers must be followed.
+
+2025-03-27 03:35:24,188 - INFO - Query:  How is capital gains tax calculated for a slump sale under Section 50B of the Income Tax Act?
+2025-03-27 03:35:24,201 - INFO - HNSW Search Time: 0.0130 seconds
+2025-03-27 03:35:24,201 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-27 03:35:24,237 - INFO - Chunk 1:
+Similarity Score: 0.7459852695465088
+Text (first 300 characters): C. Capital Gains Tax Implications for a Slump Sale A slump sale is a transaction by way of ‘sale’ as a result of which the transferor transfers one or more of its undertakings on a going concern basis for a lump sum consideration, without assigning values to the individual assets and liabilities of ...
+
+2025-03-27 03:35:24,262 - INFO - Chunk 2:
+Similarity Score: 0.6302099227905273
+Text (first 300 characters): If the undertaking, which is being sold under slump sale was held by the transferor Indian company for more than 36 months, the capital gains realized on such sale would be taxed as LTCG, i.e. at the rate of 20% (exclusive of surcharge and education cess).
+
+2025-03-27 03:35:24,288 - INFO - Chunk 3:
+Similarity Score: 0.6193056702613831
+Text (first 300 characters): The legal and tax considerations of slump sale vis a vis an asset sale is discussed in greater detail in Part VI of this Paper. Another form of acquisition may be by way of demerger.
+
+2025-03-27 03:35:24,315 - INFO - Chunk 4:
+Similarity Score: 0.605175793170929
+Text (first 300 characters): Section 2(42C) of the ITA defines slump sale as a “transfer of one or more undertakings as a result of the sale for a lump sum consideration without values being assigned to the individual assets and liabilities in such sales”.
+
+2025-03-27 03:35:24,343 - INFO - Chunk 5:
+Similarity Score: 0.5375390648841858
+Text (first 300 characters): It would also be useful to note that the definition of ‘slump sale’ under the ITA uses the term ‘sale’99 specifically, and excludes any other type of transfer as defined under the ITA.
+
+2025-03-27 03:35:24,343 - INFO - BM25 Filtered Candidates Found.
+2025-03-27 03:35:24,344 - INFO - 
+Final Context for LLM Prompt:
+Section 2(42C) of the ITA defines slump sale as a “transfer of one or more undertakings as a result of the sale for a lump sum consideration without values being assigned to the individual assets and liabilities in such sales”.
+
+C. Capital Gains Tax Implications for a Slump Sale A slump sale is a transaction by way of ‘sale’ as a result of which the transferor transfers one or more of its undertakings on a going concern basis for a lump sum consideration, without assigning values to the individual assets and liabilities of the undertaking.97 For the purpose of computing capital gains, the cost of acquisition would be the ‘net worth’ of the undertaking on the date of the transfer.98 The ‘net worth’ of the undertaking shall be determined by calculating the difference between the aggregate value of total assets and aggregate value of total liabilities as per the books of accounts of the seller.
+
+2025-03-27 03:36:01,078 - INFO - Query:  What are the SEBI open offer obligations in an M&A transaction?
+2025-03-27 03:36:01,090 - INFO - HNSW Search Time: 0.0107 seconds
+2025-03-27 03:36:01,090 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-27 03:36:01,117 - INFO - Chunk 1:
+Similarity Score: 0.6552359461784363
+Text (first 300 characters): Further, SEBI has the power to grant exemption or relaxation from the requirements of the open offer under the Takeover Code in the interest of investors and the securities market. Such relaxations or exemptions can be sought by the acquirer by making an application to SEBI.
+
+2025-03-27 03:36:01,144 - INFO - Chunk 2:
+Similarity Score: 0.6155405044555664
+Text (first 300 characters): In cases where clearance from the CCI is not received within the statutory time period required to complete the open offer as prescribed under the Takeover Code, then as per the Takeover Code, SEBI may direct the acquirer to pay interest to shareholders for the delay beyond the maximum period within...
+
+2025-03-27 03:36:01,166 - INFO - Chunk 3:
+Similarity Score: 0.5846662521362305
+Text (first 300 characters): As per SEBI’s Takeover Code Frequently Asked Questions, any person holding less than 25% shareholding/voting rights can also make a voluntary open offer for acquiring additional shares.
+
+2025-03-27 03:36:01,191 - INFO - Chunk 4:
+Similarity Score: 0.5744234919548035
+Text (first 300 characters): However, this obligation is subject to the exemptions provided under the Takeover Code. Exemptions from open offer requirement under the Takeover Code include inter alia acquisition pursuant to a scheme of arrangement approved by the NCLT.
+
+2025-03-27 03:36:01,214 - INFO - Chunk 5:
+Similarity Score: 0.572608470916748
+Text (first 300 characters): In case of swap of equity instruments, valuation involved in the swap arrangement is required to be made by a merchant banker registered with SEBI or an investment banker outside India registered with the appropriate authority in the host country.
+
+2025-03-27 03:36:01,215 - INFO - BM25 Filtered Candidates Found.
+2025-03-27 03:36:01,215 - INFO - 
+Final Context for LLM Prompt:
+In cases where clearance from the CCI is not received within the statutory time period required to complete the open offer as prescribed under the Takeover Code, then as per the Takeover Code, SEBI may direct the acquirer to pay interest to shareholders for the delay beyond the maximum period within which the tendering shareholders are required to be paid.
+
+Further, SEBI has the power to grant exemption or relaxation from the requirements of the open offer under the Takeover Code in the interest of investors and the securities market. Such relaxations or exemptions can be sought by the acquirer by making an application to SEBI.
+
+2025-03-27 03:36:31,120 - INFO - Query: What are the Competition Commission of India (CCI) merger approval requirements?
+2025-03-27 03:36:31,132 - INFO - HNSW Search Time: 0.0118 seconds
+2025-03-27 03:36:31,132 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-03-27 03:36:31,164 - INFO - Chunk 1:
+Similarity Score: 0.6736829876899719
+Text (first 300 characters): These forms of merger are heavily scrutinized by the Competition Commission of India (“CCI”). ii. Vertical Mergers Vertical mergers refer to the combination of two entities at different stages of the industrial or production process.
+
+2025-03-27 03:36:31,191 - INFO - Chunk 2:
+Similarity Score: 0.6664360761642456
+Text (first 300 characters): Exemption to court approved merger The Preferential Issue Regulations shall not apply in case a preferential allotment of shares is made pursuant to a scheme of arrangement approved by the NCLT under the Merger Provisions discussed above.32 B. Securities and Exchange Board of India (Substantial Acqu...
+
+2025-03-27 03:36:31,217 - INFO - Chunk 3:
+Similarity Score: 0.6635577082633972
+Text (first 300 characters): Under Section 32 of the Competition Act, the CCI has been conferred with extra-territorial jurisdiction, meaning that any acquisition where assets/turnover are in India, and exceed specified limits, would be subject to the scrutiny of the CCI, even if the acquirer and target are located outside Indi...
+
+2025-03-27 03:36:31,245 - INFO - Chunk 4:
+Similarity Score: 0.6609116196632385
+Text (first 300 characters): The Competition Commission of India (Procedure in regard to the Transaction of Business relating to Combinations) Regulations, 2011 (“Combination Regulations”) govern the manner in which the CCI will regulate combinations which have caused or are likely to cause an appreciable adverse effect on comp...
+
+2025-03-27 03:36:31,271 - INFO - Chunk 5:
+Similarity Score: 0.6378880739212036
+Text (first 300 characters): C. Cross Border Mergers Section 234 of the CA 2013 permits mergers between Indian and foreign companies with © Nishith Desai Associates 2020 Mergers and Acquisitions 5 prior approval of the Reserve Bank of India (“RBI”).
+
+2025-03-27 03:36:31,272 - INFO - BM25 Filtered Candidates Found.
+2025-03-27 03:36:31,272 - INFO - 
+Final Context for LLM Prompt:
+These forms of merger are heavily scrutinized by the Competition Commission of India (“CCI”). ii. Vertical Mergers Vertical mergers refer to the combination of two entities at different stages of the industrial or production process.
+
+C. Cross Border Mergers Section 234 of the CA 2013 permits mergers between Indian and foreign companies with © Nishith Desai Associates 2020 Mergers and Acquisitions 5 prior approval of the Reserve Bank of India (“RBI”).
+
+2025-04-14 21:00:05,754 - INFO - Use pytorch device_name: cpu
+2025-04-14 21:00:05,755 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-14 21:00:27,347 - INFO - PDF text extraction failed, skip text extraction...
+2025-04-14 21:00:27,348 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-04-14 21:00:27,348 - WARNING - Falling back to partitioning with hi_res.
+2025-04-14 21:00:28,223 - INFO - Reading PDF for file: uploads\poa.pdf ...
+2025-04-14 21:00:28,231 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-04-14 21:00:49,484 - INFO - Query: Can you tell me who is the attorney
+2025-04-14 21:00:49,617 - INFO - HNSW Search Time: 0.1329 seconds
+2025-04-14 21:00:49,617 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-04-14 21:00:49,801 - INFO - Chunk 1:
+Similarity Score: 0.5769228935241699
+Text (first 300 characters): In presence of ………… 1. 2. I HAVE ACEPTED THE AFORESAID POWER OF ATTORNEY ON THE BASIS WHAT IS STATED HEREINABOVE MRS. ANSARI SAMEERA REHAN
+
+2025-04-14 21:00:49,876 - INFO - Chunk 2:
+Similarity Score: 0.5447111129760742
+Text (first 300 characters): either in my name or in her firm name or in her individual name or names of one or more of them as my said Attorney may think fit and to appear before any judge, magistrate or other presiding or sitting Officer, authority etc. empowered to hear any suit, case or proceedings or any other inquires rel...
+
+2025-04-14 21:00:49,914 - INFO - Chunk 3:
+Similarity Score: 0.4715493321418762
+Text (first 300 characters): ANSARI SAMEERA REHAN Aged 33 years Indian Inhabitant, residing at Building No.09, Room No.07, Lucky Compound, 18 Water Street, Byculla, Jacob Circle, Mumbai - 400011; (hereinafter referred to as my “SAID ATTORNEY” to be my true and lawful Attorney in fact and in law to act either in my name or 3 COL...
+
+2025-04-14 21:00:49,947 - INFO - Chunk 4:
+Similarity Score: 0.4571094214916229
+Text (first 300 characters): AND WHEREAS I temporarily reside in U.A.E. due to my professional and personal commitments bearing Indian Passport No. H8154429 issued on 15.03.2010 at Hyderabad; I am unable to look after and attend to the day- to- day management, supervision and affairs of said property, I am desirous of executing...
+
+2025-04-14 21:00:49,985 - INFO - Chunk 5:
+Similarity Score: 0.4511091411113739
+Text (first 300 characters): AND GENERALLY To do CAUSE, effect, transact, perform all acts, deeds things, effected transacted , executed or performed as fully and effectually to all intents and purpose as I could do if I was present before any authority or person and it being my intent and desire that all matters and things rel...
+
+2025-04-14 21:00:49,986 - INFO - BM25 Filtered Candidates Found.
+2025-04-14 21:00:49,986 - INFO - 
+Final Context for LLM Prompt:
+In presence of ………… 1. 2. I HAVE ACEPTED THE AFORESAID POWER OF ATTORNEY ON THE BASIS WHAT IS STATED HEREINABOVE MRS. ANSARI SAMEERA REHAN
+
+2025-04-14 21:04:55,194 - INFO - PDF text extraction failed, skip text extraction...
+2025-04-14 21:04:55,196 - WARNING - pytesseract is not installed. Cannot use the ocr_only partitioning strategy. Falling back to partitioning with another strategy.
+2025-04-14 21:04:55,196 - WARNING - Falling back to partitioning with hi_res.
+2025-04-14 21:04:55,197 - INFO - Reading PDF for file: uploads\Lease Agreement PDF.pdf ...
+2025-04-14 21:04:55,211 - INFO - Structured extraction failed; using fallback extraction. Error: Unable to get page count. Is poppler installed and in PATH?
+2025-04-14 21:05:12,954 - INFO - Query: Will the landlord be responsible for any damages to the tenant or his family?
+2025-04-14 21:05:13,029 - INFO - HNSW Search Time: 0.0746 seconds
+2025-04-14 21:05:13,029 - INFO - 
+Candidate Chunks and Similarity Scores:
+2025-04-14 21:05:13,079 - INFO - Chunk 1:
+Similarity Score: 0.6873963475227356
+Text (first 300 characters): If said damage was due to the negligence of the Tenant(s), the Tenant(s) shall be liable to the Landlord for all repairs and for the loss of income due to restoring the property back to a livable condition in addition to any other losses that can be proved by the Landlord.
+
+2025-04-14 21:05:13,344 - INFO - Chunk 2:
+Similarity Score: 0.6310639381408691
+Text (first 300 characters): INDEMNIFICATION.\u200b Landlord shall not be liable for any injury to the tenant, tenant’s family, guests, or employees or to any person entering the Property and shall not be liable for any damage to the building in which the Property is located or to goods or equipment, or to the structure or equipment...
+
+2025-04-14 21:05:13,513 - INFO - Chunk 3:
+Similarity Score: 0.6191343665122986
+Text (first 300 characters): DEFAULT.\u200b If Landlord breaches this Lease, Tenant may seek any relief provided by law.
+
+2025-04-14 21:05:13,600 - INFO - Chunk 4:
+Similarity Score: 0.5893335342407227
+Text (first 300 characters): Tenant is responsible and liable for any damage or required cleaning to the Property caused by any authorized or unauthorized animal and for all costs Landlord may incur in removing or causing any animal to be removed.
+
+2025-04-14 21:05:13,743 - INFO - Chunk 5:
+Similarity Score: 0.5623332262039185
+Text (first 300 characters): The tenant will, at its sole expense, keep and maintain the Property and appurtenances in a good and sanitary condition and repair during the term of this Lease and any renewal thereof.
+
+2025-04-14 21:05:13,745 - INFO - BM25 Filtered Candidates Found.
+2025-04-14 21:05:13,746 - INFO - 
+Final Context for LLM Prompt:
+Tenant is responsible and liable for any damage or required cleaning to the Property caused by any authorized or unauthorized animal and for all costs Landlord may incur in removing or causing any animal to be removed.
+
+INDEMNIFICATION.\u200b Landlord shall not be liable for any injury to the tenant, tenant’s family, guests, or employees or to any person entering the Property and shall not be liable for any damage to the building in which the Property is located or to goods or equipment, or to the structure or equipment of the structure in which the Property is located, and Tenant hereby agrees to indemnify, defend, and hold Landlord harmless from any and all claims or assertions of every kind and nature.
+
